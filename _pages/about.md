@@ -32,7 +32,7 @@ My research interest lies broadly in theoretical machine learning. Some particul
 
 # Preprints
 
-- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited
+- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  
 Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang
 
 
@@ -59,7 +59,7 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 # Selected Awards
 - Outstanding Graduate of Shandong University *2021.06*
-- Dean's Award of Taishan (Honors) Colledge *2021.06* 
+- Dean's Award of Taishan (Honors) Colledge *2021.06*  
 Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
 
 <!-- #  Educations

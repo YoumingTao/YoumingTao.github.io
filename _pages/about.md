@@ -17,17 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a first year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I am also a research intern in [PART Lab](https://cemse.kaust.edu.sa/part) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), where I was very fortunate to work with [Prof. Di Wang](https://shao3wangdi.github.io/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my bachelor's degree in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/). 
+
+My most recent cv can be found [here]()
+
+# Research Interests
+My research interest lies broadly in theoretical machine learning. Some particular interests include (differentially) private data analytics, multi-armed bandits, optimization and federated learning. 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🔥 News
+- *2022.01*: &nbsp;🎉🎉  Our paper 'Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits' get accepted to AISTATS 2022 as an oral presentation. -->
 
-# 📝 Publications 
+# Preprints
 
+- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited
+Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang
+
+
+# Selected Publications
+<!--
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,20 +49,27 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575) 
+Youming Tao, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  
+The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
+**Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# Selected Awards
+- Outstanding Graduate of Shandong University <div style="float:right;">*2021.06*</div>
+- Dean's Award of Taishan (Honors) Colledge <div style="float:right;">*2021.06*</div>   
+Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
+
+<!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+#  Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->

@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Youming Tao (Chinese: 陶又铭)"
-description              : "A computer science student."
+title                    : "Youming Tao's Page"
+description              : #""
 repository               : "YoumingTao/YoumingTao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Youming Tao"
+  name             : "Youming Tao (陶又铭)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "School of Computer Science and Technology, Shandong University"
-  location         : "No. 72 Binhai Road, Qingdao, Shandong, China 266237"
+  bio              : #"Shandong University"
+  location         : |
+                      "No. 72 Binhai Road, 
+                      Qingdao, Shandong, China
+                       266237"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RTJLPm0AAAAJ"

@@ -58,8 +58,8 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 
 # Selected Awards
-- Outstanding Graduate of Shandong University <div style="float:right;">*2021.06*</div>
-- Dean's Award of Taishan (Honors) Colledge <div style="float:right;">*2021.06*</div>   
+- Outstanding Graduate of Shandong University *2021.06*
+- Dean's Award of Taishan (Honors) Colledge *2021.06* 
 Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
 
 <!-- #  Educations

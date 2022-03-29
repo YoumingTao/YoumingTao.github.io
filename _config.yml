@@ -24,10 +24,7 @@ author:
   name             : "Youming Tao (陶又铭)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : #"Shandong University"
-  location         : |
-    "No. 72 Binhai Road,"
-    "Qingdao, Shandong, China"
-    "266237"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RTJLPm0AAAAJ"

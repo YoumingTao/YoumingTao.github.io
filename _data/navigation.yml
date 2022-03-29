@@ -7,10 +7,10 @@ main:
   #  url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Selected Publications"
+    url: "/#-Selected-Publications"
 
   - title: "Awards"
-    url: "/#-Selected Awards"
+    url: "/#-Selected-Awards"
 
   #- title: "Educations"
   #  url: "/#-educations"

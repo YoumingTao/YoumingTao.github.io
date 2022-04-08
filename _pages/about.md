@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am currently a first-year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I am also a research intern in [PART Lab](https://cemse.kaust.edu.sa/part) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), where I am very fortunate to work with [Prof. Di Wang](https://shao3wangdi.github.io/).
 
 I received my bachelor's degree in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/). 
@@ -61,6 +63,9 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 - Outstanding Graduate of Shandong University *2021.06*
 - Dean's Award of Taishan (Honors) College *2021.06*  
 Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
+
+# Professional Service
+- Program Committee member for ECML-PKDD 2022
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

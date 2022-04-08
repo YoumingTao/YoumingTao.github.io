@@ -23,7 +23,7 @@ I am currently a first-year graduate student in [School of Computer Science and 
 
 I received my bachelor's degree in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/). 
 
-My most recent cv can be found [here]()
+<!-- My most recent cv can be found [here]() -->
 
 # Research Interests
 My research interest lies broadly in theoretical machine learning. Some particular interests include (differentially) private data analytics, multi-armed bandits, optimization and federated learning. 

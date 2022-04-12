@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Youming Tao's Website"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 

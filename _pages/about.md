@@ -54,7 +54,7 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 -->
 
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  
-Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang
+Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  

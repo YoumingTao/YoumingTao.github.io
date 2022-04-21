@@ -32,10 +32,10 @@ My research interest lies broadly in theoretical machine learning. Some particul
 <!-- # 🔥 News
 - *2022.01*: &nbsp;🎉🎉  Our paper 'Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits' get accepted to AISTATS 2022 as an oral presentation. -->
 
-# Preprints
+<!-- # Preprints
 
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  
-Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang
+Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 
 
 # Selected Publications
@@ -52,6 +52,10 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang
 </div>
 </div>
 -->
+
+- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  
+Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang
+The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  
 Youming Tao, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  

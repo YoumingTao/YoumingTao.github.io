@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+-->
 
 <span class='anchor' id='about-me'></span>
 
@@ -53,7 +55,7 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 </div>
 -->
 
-- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  
+- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[pdf]](../papers/Private_Stochastic_Convex_Optimization_and_Sparse_Learning.pdf)
 **Youming Tao**, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 

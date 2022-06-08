@@ -23,7 +23,7 @@ redirect_from:
 
 I am currently a first-year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I am also a research intern in [PART Lab](https://cemse.kaust.edu.sa/part) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), where I am very fortunate to work with [Prof. Di Wang](https://shao3wangdi.github.io/).
 
-I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/). 
+I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021. 
 
 <!-- My most recent cv can be found [here]() -->
 

@@ -21,14 +21,15 @@ redirect_from:
 
 # About Me
 
-I am currently a first-year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I am also a research intern in [PART Lab](https://cemse.kaust.edu.sa/part) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), where I am very fortunate to work with [Prof. Di Wang](https://shao3wangdi.github.io/).
+I am currently a first-year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I am also a research intern in [PART Lab](https://cemse.kaust.edu.sa/part) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), where I am very fortunate to work with [Prof. Di Wang](https://shao3wangdi.github.io/).
 
-I received my bachelor's degree in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/). 
+I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/). 
 
 <!-- My most recent cv can be found [here]() -->
 
-# Research Interests
-My research interest lies broadly in theoretical machine learning. Some particular interests include (differentially) private data analytics, multi-armed bandits, optimization and federated learning. 
+**Research Interests**
+
+My research interests lie broadly in the theoretical aspects of machine learning. Specifically, I am currently working on (differentially) private data analytics, multi-armed bandits, stochastic optimization, and distributed learning/unlearning.   
 
 
 <!-- # 🔥 News

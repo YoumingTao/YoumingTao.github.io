@@ -73,7 +73,7 @@ Only **one** recipient out of 16 graduates in the Computer Science track of Tais
 
 # Professional Service
 - Sub-reviewer for ESORICS 2022
-- Program committee member for ECML-PKDD 2022
+- Program Committee member for ECML-PKDD 2022
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

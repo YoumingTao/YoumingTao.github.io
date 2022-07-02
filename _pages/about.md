@@ -29,7 +29,7 @@ I received my bachelor's degree (with distinction) in Computer Science from [Tai
 
 **Research Interests**
 
-My research interests lie broadly in the theoretical aspects of machine learning. Specifically, I am currently working on (differentially) private data analytics, multi-armed bandits, stochastic optimization, and distributed learning/unlearning.   
+My research interests lie broadly in the theoretical aspects of machine learning. Currently, I am working on (differentially) private data analytics, multi-armed bandits, stochastic optimization, and distributed learning.   
 
 
 <!-- # 🔥 News
@@ -72,8 +72,8 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
 
 # Professional Service
-- Program Committee member for ECML-PKDD 2022
-
+- Program committee member for ECML-PKDD 2022
+- Sub-reviewer for ESORICS 2022
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

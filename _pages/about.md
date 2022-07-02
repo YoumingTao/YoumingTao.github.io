@@ -72,8 +72,8 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
 
 # Professional Service
-- Program committee member for ECML-PKDD 2022
 - Sub-reviewer for ESORICS 2022
+- Program committee member for ECML-PKDD 2022
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

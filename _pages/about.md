@@ -82,13 +82,13 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 - <p style="text-align:left;">
   Outstanding Graduate Award, Shandong University
   <span style="float:right;">
-  June 2021
+  Jun. 2021
   </span>
   </p>
 - <p style="text-align:left;">
   Dean's Award, Taishan (Honors) College
   <span style="float:right;">
-  June 2021
+  Jun. 2021
   </span>
   </p>
 
@@ -96,19 +96,19 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 - <p style="text-align:left;">
   Merit Student Award, Shandong University
   <span style="float:right;">
-  Sept. 2020
+  Sep. 2020
   </span>
   </p>
 - <p style="text-align:left;">
   First-class Academic Scholarship, Shandong University
   <span style="float:right;">
-  Sept. 2020
+  Sep. 2020
   </span>
   </p>
 - <p style="text-align:left;">
   Reasearch and Innovation Scholarship, Shandong University
   <span style="float:right;">
-  Sept. 2020
+  Sep. 2020
   </span>
   </p>
 

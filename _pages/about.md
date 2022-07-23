@@ -26,10 +26,10 @@ I am currently a first-year graduate student in [School of Computer Science and 
 I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021. 
 
 <!-- My most recent cv can be found [here]() -->
-
+s
 **Research Interests**
 
-My research interests lie broadly in the theoretical aspects of machine learning. Currently, I am working on (differentially) private data analytics, multi-armed bandits, stochastic optimization, and distributed learning.   
+My research interests lie broadly in the theoretical aspects of machine learning. Currently, I am working on (differentially) private data analytics, multi-armed bandits, stochastic optimization, federated learning and machine unlearning.   
 
 
 <!-- # 🔥 News
@@ -80,35 +80,35 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 # Awards
 - <p style="text-align:left;">
-  Outstanding Graduate of Shandong University
+  Outstanding Graduate Award, Shandong University
   <span style="float:right;">
-  June, 2021
+  June 2021
   </span>
   </p>
 - <p style="text-align:left;">
-  Dean's Award of Taishan (Honors) College
+  Dean's Award, Taishan (Honors) College
   <span style="float:right;">
-  June, 2021
+  June 2021
   </span>
   </p>
 
   Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
 - <p style="text-align:left;">
-  Merit Student of Shandong University
+  Merit Student Award, Shandong University
   <span style="float:right;">
-  Sept., 2020
+  Sept. 2020
   </span>
   </p>
 - <p style="text-align:left;">
-  First-class Academic Scholarship of Shandong University
+  First-class Academic Scholarship, Shandong University
   <span style="float:right;">
-  Sept., 2020
+  Sept. 2020
   </span>
   </p>
 - <p style="text-align:left;">
-  Reasearch and Innovation Scholarship of Shandong University
+  Reasearch and Innovation Scholarship, Shandong University
   <span style="float:right;">
-  Sept., 2020
+  Sept. 2020
   </span>
   </p>
 

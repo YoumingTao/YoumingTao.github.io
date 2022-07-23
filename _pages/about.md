@@ -41,7 +41,7 @@ My research interests lie broadly in the theoretical aspects of machine learning
 Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 
 
-# Selected Publications
+# Publications
 <!--
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -60,16 +60,58 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 **Youming Tao**, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 
-- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  
+- Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  [[link]](https://proceedings.mlr.press/v151/tao22a.html)  
 **Youming Tao**, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  
 The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
 **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
 
+- Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  
+Dongxiao Yu, Zongrui Zou, Shuzhen Chen, **Youming Tao**, Bing Tian, Weifeng Lv, Xiuzhen Cheng  
+IEEE Transactions on Vehicular Technology (Volume 70, Issue 6, June 2021)
 
-# Selected Awards
-- Outstanding Graduate of Shandong University *2021.06*
-- Dean's Award of Taishan (Honors) College *2021.06*  
-Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
+- Distributed Learning Dynamics of Multi-Armed Bandits for Edge Intelligence  [[link]](https://www.sciencedirect.com/science/article/abs/pii/S1383762120301806)  
+Shuzhen Chen, **Youming Tao**, Dongxiao Yu, FengLi, Bei Gong  
+Journal of Systems Architecture (Volume 114, March 2021)
+
+- Privacy-Preserving Collaborative Learning for Multi-Armed Bandits in IoT [[link]](https://ieeexplore.ieee.org/abstract/document/9165854)  
+Shuzhen Chen, **Youming Tao**, Dongxiao Yu, Feng Li, Bei Gong, Xiuzhen Cheng  
+IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
+
+
+# Awards
+- <p style="text-align:left;">
+  Outstanding Graduate of Shandong University
+  <span style="float:right;">
+  June, 2021
+  </span>
+  </p>
+- <p style="text-align:left;">
+  Dean's Award of Taishan (Honors) College
+  <span style="float:right;">
+  June, 2021
+  </span>
+  </p>
+
+  Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
+- <p style="text-align:left;">
+  Merit Student of Shandong University
+  <span style="float:right;">
+  Sept., 2020
+  </span>
+  </p>
+- <p style="text-align:left;">
+  First-class Academic Scholarship of Shandong University
+  <span style="float:right;">
+  Sept., 2020
+  </span>
+  </p>
+- <p style="text-align:left;">
+  Reasearch and Innovation Scholarship of Shandong University
+  <span style="float:right;">
+  Sept., 2020
+  </span>
+  </p>
+
 
 # Professional Service
 - Sub-reviewer for ESORICS 2022

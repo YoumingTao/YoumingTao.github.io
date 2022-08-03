@@ -114,9 +114,9 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 
 # Professional Service
-- Program Commitee member for AAAI 2023
+- Program Commitee Member for AAAI 2023
 - Sub-reviewer for ESORICS 2022
-- Program Committee member for ECML-PKDD 2022
+- Program Committee Member for ECML-PKDD 2022
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

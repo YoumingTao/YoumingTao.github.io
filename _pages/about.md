@@ -56,7 +56,7 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 </div>
 -->
 
-- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[pdf]](../papers/Private_Stochastic_Convex_Optimization_and_Sparse_Learning.pdf)  
+- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[pdf]](../papers/Private_Stochastic_Convex_Optimization_and_Sparse_Learning.pdf)  [[link]](https://www.ijcai.org/proceedings/2022/548)  
 **Youming Tao**, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 

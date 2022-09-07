@@ -66,7 +66,7 @@ The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 **Youming Tao**, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  
 The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
 **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
-  - Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)
+  - Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)  
   **Selected as contributed talk (Acceptance Rate: 4/40).**
   - Presented at CCS 2021 Workshop on Privacy Preserving Machine Learning (PPML 2022)
 

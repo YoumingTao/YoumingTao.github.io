@@ -21,7 +21,7 @@ redirect_from:
 
 # About Me
 
-I am currently a first-year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I am also a research intern in [PART Lab](https://cemse.kaust.edu.sa/part) at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en), where I am very fortunate to work with [Prof. Di Wang](https://shao3wangdi.github.io/).
+I am currently a first-year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
 
 I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021. 
 
@@ -56,6 +56,8 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 </div>
 -->
 
+## Peer-Refereed Conference Papers
+
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[pdf]](../papers/Private_Stochastic_Convex_Optimization_and_Sparse_Learning.pdf)  [[link]](https://www.ijcai.org/proceedings/2022/548)  
 **Youming Tao**, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
@@ -64,6 +66,12 @@ The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 **Youming Tao**, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  
 The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
 **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
+  - Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)
+  **Selected as contributed talk (Acceptance Rate: 4/40).**
+  - Presented at CCS 2021 Workshop on Privacy Preserving Machine Learning (PPML 2022)
+
+
+## Peer-Refereed Journal Papers
 
 - Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  
 Dongxiao Yu, Zongrui Zou, Shuzhen Chen, **Youming Tao**, Bing Tian, Weifeng Lv, Xiuzhen Cheng  
@@ -114,9 +122,8 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 
 # Professional Service
-- Program Commitee Member for AAAI 2023
-- Sub-reviewer for ESORICS 2022
-- Program Committee Member for ECML-PKDD 2022
+- Program Commitee Member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [ECML-PKDD 2022](https://2022.ecmlpkdd.org/)
+- Sub-reviewer for [ESORICS 2022](https://esorics2022.compute.dtu.dk/index.html)
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

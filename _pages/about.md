@@ -29,7 +29,7 @@ I received my bachelor's degree (with distinction) in Computer Science from [Tai
 
 **Research Interests**
 
-My research interests lie broadly in the theoretical aspects of machine learning. Currently, I am working on (differentially) private data analytics, multi-armed bandits, stochastic optimization, federated learning and machine unlearning.   
+My research interests lie broadly in the theoretical aspects of machine learning. Currently, I am working on machine unlearning, (differentially) private data analytics, multi-armed bandits, stochastic optimization, federated learning.   
 
 
 <!-- # 🔥 News

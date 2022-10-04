@@ -72,7 +72,7 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 
 ## Peer-Refereed Journal Papers
-
+<!--
 - Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  
 Dongxiao Yu, Zongrui Zou, Shuzhen Chen, **Youming Tao**, Bing Tian, Weifeng Lv, Xiuzhen Cheng  
 IEEE Transactions on Vehicular Technology (Volume 70, Issue 6, June 2021)
@@ -84,7 +84,7 @@ Journal of Systems Architecture (Volume 114, March 2021)
 - Privacy-Preserving Collaborative Learning for Multi-Armed Bandits in IoT [[link]](https://ieeexplore.ieee.org/abstract/document/9165854)  
 Shuzhen Chen, **Youming Tao**, Dongxiao Yu, Feng Li, Bei Gong, Xiuzhen Cheng  
 IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
-
+-->
 
 # Awards
 - <p style="text-align:left;">

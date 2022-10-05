@@ -21,7 +21,7 @@ redirect_from:
 
 # About Me
 
-I am currently a first-year graduate student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
+I am currently an MS/PhD student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
 
 I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021. 
 

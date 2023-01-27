@@ -74,7 +74,7 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 ## Peer-Refereed Journal Papers
 
 - A Distributed Privacy-Preserving Learning Dynamics in General Social Networks  
-**Youming Tao**, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng
+**Youming Tao**, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
 IEEE Transactions on Knowledge and Data Engineering (Accepted)
 
 - Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  

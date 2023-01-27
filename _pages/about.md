@@ -75,7 +75,7 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 - A Distributed Privacy-Preserving Learning Dynamics in General Social Networks  
 **Youming Tao**, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
-IEEE Transactions on Knowledge and Data Engineering (Accepted)
+IEEE Transactions on Knowledge and Data Engineering (In press)
 
 - Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  
 Dongxiao Yu, Zongrui Zou, Shuzhen Chen, **Youming Tao**, Bing Tian, Weifeng Lv, Xiuzhen Cheng  

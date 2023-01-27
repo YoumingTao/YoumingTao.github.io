@@ -21,7 +21,7 @@ redirect_from:
 
 # About Me
 
-I am currently an MS/PhD student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
+I am currently a second-year MS/PhD student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
 
 I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021. 
 
@@ -29,7 +29,7 @@ I received my bachelor's degree (with distinction) in Computer Science from [Tai
 
 **Research Interests**
 
-My research interests lie broadly in the theoretical aspects of machine learning. Currently, I am working on machine unlearning, (differentially) private data analytics, multi-armed bandits, stochastic optimization, federated learning.   
+My interests fall in the general field of machine learning and distributed computing. I am currently focusing on building private, efficient and reliable collaborative learning algorihtms with applications to edge intelligence. 
 
 
 <!-- # 🔥 News
@@ -72,7 +72,7 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 
 ## Peer-Refereed Journal Papers
-<!--
+
 - Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  
 Dongxiao Yu, Zongrui Zou, Shuzhen Chen, **Youming Tao**, Bing Tian, Weifeng Lv, Xiuzhen Cheng  
 IEEE Transactions on Vehicular Technology (Volume 70, Issue 6, June 2021)
@@ -83,8 +83,8 @@ Journal of Systems Architecture (Volume 114, March 2021)
 
 - Privacy-Preserving Collaborative Learning for Multi-Armed Bandits in IoT [[link]](https://ieeexplore.ieee.org/abstract/document/9165854)  
 Shuzhen Chen, **Youming Tao**, Dongxiao Yu, Feng Li, Bei Gong, Xiuzhen Cheng  
-IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
--->
+IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021) 
+
 
 # Awards
 - <p style="text-align:left;">

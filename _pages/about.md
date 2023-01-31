@@ -29,7 +29,7 @@ I received my bachelor's degree (with distinction) in Computer Science from [Tai
 
 **Research Interests**
 
-My interests fall in the general field of artificial intelligence and edge computing. Currently, I am mainly focusing on building private, efficient and reliable collaborative learning algorihtms with applications to edge intelligence. 
+My interests fall in the general field of artificial intelligence and edge computing. Currently, I mainly focus on building private, efficient and reliable collaborative learning algorihtms with applications to edge intelligence. 
 
 
 <!-- # 🔥 News

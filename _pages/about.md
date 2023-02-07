@@ -56,6 +56,11 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 </div>
 -->
 
+## Preprints
+
+- On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
+Yulian Wu*, Xingyu Zhou*, **Youming Tao** and Di Wang (\* Equal contribution)  
+
 ## Peer-Refereed Conference Papers
 
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[pdf]](../papers/Private_Stochastic_Convex_Optimization_and_Sparse_Learning.pdf)  [[link]](https://www.ijcai.org/proceedings/2022/548)  
@@ -63,7 +68,7 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  [[link]](https://proceedings.mlr.press/v151/tao22a.html)  
-**Youming Tao**, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  
+**Youming Tao***, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  
 The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
 **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
   - Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)  
@@ -72,7 +77,11 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 
 ## Peer-Refereed Journal Papers
-
+<!--
+- Byzantine-Resilient Federated Learning at Edge  
+Youming Tao, Sijia Cui, Wenlu Xu, Haofei Yin, Dongxiao Yu, Weifa Liang, Xiuzhen Cheng  
+IEEE Transactions on Computers  
+-->
 - A Distributed Privacy-Preserving Learning Dynamics in General Social Networks [[arxiv]](https://arxiv.org/pdf/2011.09845v2.pdf)  
 **Youming Tao**, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
 IEEE Transactions on Knowledge and Data Engineering (In press)

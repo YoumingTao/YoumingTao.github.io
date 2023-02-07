@@ -59,7 +59,7 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 ## Preprints
 
 - On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
-Yulian Wu*, Xingyu Zhou*, **Youming Tao** and Di Wang (\* Equal contribution)  
+Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang (\* Equal contribution)  
 
 ## Peer-Refereed Conference Papers
 
@@ -68,7 +68,7 @@ Yulian Wu*, Xingyu Zhou*, **Youming Tao** and Di Wang (\* Equal contribution)
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  [[link]](https://proceedings.mlr.press/v151/tao22a.html)  
-**Youming Tao***, Yulian Wu*, Peng Zhao, Di Wang (\* Equal contribution)  
+**Youming Tao**\*, Yulian Wu\*, Peng Zhao, Di Wang (\* Equal contribution)  
 The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
 **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
   - Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)  

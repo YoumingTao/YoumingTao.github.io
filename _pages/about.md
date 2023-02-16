@@ -21,7 +21,7 @@ redirect_from:
 
 # About Me
 
-I am currently a second-year PhD student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
+I am currently a second-year PhD student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
 
 I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021. 
 
@@ -29,7 +29,7 @@ I received my bachelor's degree (with distinction) in Computer Science from [Tai
 
 **Research Interests**
 
-My interests fall in the general field of artificial intelligence and edge computing. Currently, I mainly focus on building private, efficient and reliable collaborative learning algorihtms with applications to edge intelligence. 
+My interests fall in the general field of artificial intelligence and information networking. Currently, I mainly focus on building private, efficient and reliable collaborative learning algorihtms with applications to edge intelligence. 
 
 
 <!-- # 🔥 News

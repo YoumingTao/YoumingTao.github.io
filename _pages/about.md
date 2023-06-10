@@ -21,15 +21,19 @@ redirect_from:
 
 # About Me
 
-I am currently a second-year PhD student in [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). 
+I am a second-year PhD student in the [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I work under the guidance of [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I also collaborate closely with [Prof. Di Wang](https://shao3wangdi.github.io/) at the [PRADA Lab](http://www.pradalab.org/) of [KAUST](https://www.kaust.edu.sa/en/).
 
-I received my bachelor's degree (with distinction) in Computer Science from [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021. 
+I obtained my bachelor's degree (with distinction) in Computer Science from the [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
 <!-- My most recent cv can be found [here]() -->
 
-**Research Interests**
+# Research Statements
 
-My interests fall in the general field of artificial intelligence and information networking. Currently, I mainly focus on building private, efficient and reliable collaborative learning algorithms with applications to edge intelligence. 
+My research interests lie at the intersection of artificial intelligence and information networking. Currently, I am mainly focused on developing trustworthy collaborative machine learning algorithms for edge intelligence. Specifically, my research aims to address the following question:
+
+**How can we ensure *data privacy*, *fault tolerance*, *algorithmic stability*, *communication/computation efficiency* and *rapid convergence* during the collaborative machine learning and optimization process, especially for edge scenarios with constrained computation/memory capability, limited communication bandwidth, highly dynamic topology and malicious adversaries?**
+
+Overall, my research aims to use theory as a guide for building innovative and impactful solutions for the real world.
 
 
 <!-- # 🔥 News

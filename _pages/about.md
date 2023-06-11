@@ -21,7 +21,7 @@ redirect_from:
 
 # About Me
 
-I am a second-year PhD student in the [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I work under the guidance of [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I also collaborate closely with [Prof. Di Wang](https://shao3wangdi.github.io/) at the [PRADA Lab](http://www.pradalab.org/) of [KAUST](https://www.kaust.edu.sa/en/).
+I am a second-year PhD student in the [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I work under the guidance of [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I also collaborate closely with [Prof. Di Wang](https://shao3wangdi.github.io/), who directs the [PRADA Lab](http://www.pradalab.org/) of [KAUST](https://www.kaust.edu.sa/en/).
 
 I obtained my bachelor's degree (with distinction) in Computer Science from the [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
@@ -29,11 +29,11 @@ I obtained my bachelor's degree (with distinction) in Computer Science from the 
 
 # Research Statements
 
-My research interests lie at the intersection of artificial intelligence and information networking. Currently, I am mainly focused on developing trustworthy collaborative machine learning algorithms for edge intelligence. Specifically, my research aims to address the following question:
+My research interests lie at the intersection of artificial intelligence and information networking. Currently, I am mainly focused on developing trustworthy collaborative machine learning algorithms for edge intelligence. Specifically, my research aims to address the following challenge:
 
 **How can we ensure *data privacy*, *fault tolerance*, *algorithmic stability*, *communication/computation efficiency* and *rapid convergence* during the collaborative machine learning and optimization process, especially for edge scenarios with constrained computation/memory capability, limited communication bandwidth, highly dynamic topology and malicious adversaries?**
 
-Overall, my research aims to use theory as a guide for building innovative and impactful solutions for the real world.
+Ultimately, my research aims to use theory as a guide for building innovative and impactful solutions for the real world.
 
 
 <!-- # 🔥 News
@@ -139,8 +139,8 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 
 # Professional Service
-- Program Commitee Member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), [ECML-PKDD 2022](https://2022.ecmlpkdd.org/)
-- Sub-reviewer for [ICML 2023](https://icml.cc/Conferences/2023), [Euro S&P 2023](https://www.ieee-security.org/TC/EuroSP2023/), [ICLR 2023](https://iclr.cc/Conferences/2023), [AISTATS 2023](http://aistats.org/aistats2023/), [ESORICS 2022](https://esorics2022.compute.dtu.dk/index.html)
+- Program Commitee Member for AAAI [2023](https://aaai.org/Conferences/AAAI-23/), ECML-PKDD [2022](https://2022.ecmlpkdd.org/)
+- Sub-reviewer for NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
 - Journal Reviewer for [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 
 <!-- #  Educations

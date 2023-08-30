@@ -67,6 +67,10 @@ Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang (\* Equal contribution)
 
 ## Peer-Refereed Conference Papers
 
+- Resource-Adaptive Newton's Method for Distributed Learning  
+Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  
+The 29th International Computing and Combinatorics Conference (COCOON 2023)  
+
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[full version]](../papers/Private_Stochastic_Convex_Optimization_and_Sparse_Learning.pdf)  [[link]](https://www.ijcai.org/proceedings/2022/548)  
 **Youming Tao**, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)

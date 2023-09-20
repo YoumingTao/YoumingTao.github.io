@@ -67,7 +67,7 @@ Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang (\* Equal contribution)
 
 ## Peer-Refereed Conference Papers
 
-- Resource-Adaptive Newton's Method for Distributed Learning  
+- Resource-Adaptive Newton's Method for Distributed Learning  [[arxiv]](https://arxiv.org/abs/2308.10154)  
 Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  
 The 29th International Computing and Combinatorics Conference (COCOON 2023)  
 
@@ -88,11 +88,11 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 - Byzantine-Resilient Federated Learning at Edge [[arxiv]](https://arxiv.org/abs/2303.10434) [[link]](https://ieeexplore.ieee.org/abstract/document/10070815)  
 **Youming Tao**, Sijia Cui, Wenlu Xu, Haofei Yin, Dongxiao Yu, Weifa Liang, Xiuzhen Cheng  
-IEEE Transactions on Computers (In press)  
+IEEE Transactions on Computers (Volume: 72, Issue: 9, 01 September 2023)  
 
 - A Distributed Privacy-Preserving Learning Dynamics in General Social Networks [[arxiv]](https://arxiv.org/pdf/2011.09845v2.pdf)  [[link]](https://ieeexplore.ieee.org/document/10035414)  
 **Youming Tao**, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
-IEEE Transactions on Knowledge and Data Engineering (In press)
+IEEE Transactions on Knowledge and Data Engineering (Volume: 35, Issue: 9, 01 September 2023)
 
 - Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  
 Dongxiao Yu, Zongrui Zou, Shuzhen Chen, **Youming Tao**, Bing Tian, Weifeng Lv, Xiuzhen Cheng  
@@ -143,9 +143,9 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 
 # Professional Service
-- Program Commitee Member for AAAI [2024](https://aaai.org/aaai-conference/) [2023](https://aaai.org/Conferences/AAAI-23/), ECML-PKDD [2022](https://2022.ecmlpkdd.org/)
-- Sub-reviewer for NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
-- Journal Reviewer for [Frontiers of Computer Science](https://www.springer.com/journal/11704)
+- *Conference Reviewer/Program Commitee Member* for AISTATS [2024](https://aistats.org/aistats2024/), ICASSP [2024](https://2024.ieeeicassp.org/), AAAI [2024](https://aaai.org/aaai-conference/) [2023](https://aaai.org/Conferences/AAAI-23/), ECML-PKDD [2022](https://2022.ecmlpkdd.org/)
+- *Conference* Sub-reviewer for NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
+- *Journal Reviewer* for [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

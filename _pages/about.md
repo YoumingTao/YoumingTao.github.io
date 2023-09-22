@@ -45,8 +45,10 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 
 
-# Publications
+# Publication  
+
 (\* denotes equal contribution)
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">

@@ -46,6 +46,7 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 
 
 # Publications
+(\* denotes equal contribution)
 <!--
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -60,12 +61,16 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 </div>
 -->
 
-## Preprints
+<!-- ## Preprints
+-->
 
-- On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
-Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang (\* Equal contribution)  
+
 
 ## Peer-Refereed Conference Papers
+
+- On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
+Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang 
+The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
 
 - Resource-Adaptive Newton's Method for Distributed Learning  [[arxiv]](https://arxiv.org/abs/2308.10154)  
 Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  
@@ -76,7 +81,7 @@ The 29th International Computing and Combinatorics Conference (COCOON 2023)
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  [[link]](https://proceedings.mlr.press/v151/tao22a.html)  
-**Youming Tao**\*, Yulian Wu\*, Peng Zhao, Di Wang (\* Equal contribution)  
+**Youming Tao**\*, Yulian Wu\*, Peng Zhao, Di Wang 
 The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
 **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
   - Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)  
@@ -144,7 +149,7 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 # Professional Service
 - *Conference Reviewer/Program Commitee Member* for AISTATS [2024](https://aistats.org/aistats2024/), ICASSP [2024](https://2024.ieeeicassp.org/), AAAI [2024](https://aaai.org/aaai-conference/) [2023](https://aaai.org/Conferences/AAAI-23/), ECML-PKDD [2022](https://2022.ecmlpkdd.org/)
-- *Conference* Sub-reviewer for NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
+- *Conference Sub-reviewer* for NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
 - *Journal Reviewer* for [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 
 <!-- #  Educations

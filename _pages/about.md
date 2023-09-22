@@ -72,8 +72,8 @@ Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
 ## Peer-Refereed Conference Papers
 
 - On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
-Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang 
-The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
+Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang  
+The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)  
 
 - Resource-Adaptive Newton's Method for Distributed Learning  [[arxiv]](https://arxiv.org/abs/2308.10154)  
 Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  

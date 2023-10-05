@@ -36,38 +36,9 @@ My research interests lie at the intersection of artificial intelligence and inf
 Ultimately, my research aims to use theory as a guide for building innovative and impactful solutions for the real world.
 
 
-<!-- # 🔥 News
-- *2022.01*: &nbsp;🎉🎉  Our paper 'Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits' get accepted to AISTATS 2022 as an oral presentation. -->
-
-<!-- # Preprints
-
-- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  
-Youming Tao, Yulian Wu, Xiuzhen Cheng, Di Wang -->
-
-
 # Publication  
 
 (\* denotes equal contribution)
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
-
-<!-- 
-## Preprints
--->
-
-
 
 ## Peer-Refereed Conference Papers
 

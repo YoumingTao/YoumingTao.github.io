@@ -36,7 +36,7 @@ My research interests lie at the intersection of artificial intelligence and inf
 Ultimately, my research aims to use theory as a guide for building innovative and impactful solutions for the real world.
 
 
-# Publication  
+# Publications  
 
 (\* denotes equal contribution)
 

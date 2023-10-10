@@ -40,6 +40,11 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 
 (\* denotes equal contribution)
 
+## Manuscripts
+
+- Communication Efficient and Provable Federated Unlearning  
+[*Revision*] International Conference on Very Large Data Bases (VLDB 2024)  
+
 ## Peer-Refereed Conference Papers
 
 - On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
@@ -124,7 +129,7 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 # Professional Service
 - *Conference Reviewer/Program Committee Member* for AISTATS [2024](https://aistats.org/aistats2024/), ICASSP [2024](https://2024.ieeeicassp.org/), AAAI [2024](https://aaai.org/aaai-conference/) [2023](https://aaai.org/Conferences/AAAI-23/), ECML-PKDD [2022](https://2022.ecmlpkdd.org/)
 - *Conference Sub-reviewer* for NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
-- *Journal Reviewer* for [Frontiers of Computer Science](https://www.springer.com/journal/11704)
+- *Journal Reviewer* for [IEEE Transactions on Mobile Computing](https://www.computer.org/csdl/journal/tm), [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

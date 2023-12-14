@@ -21,7 +21,7 @@ redirect_from:
 
 # About Me
 
-I am a 3rd-year PhD student in the [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I work under the guidance of [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). I also collaborate closely with [Prof. Di Wang](https://shao3wangdi.github.io/), who directs the [PRADA Lab](http://www.pradalab.org/) at [KAUST](https://www.kaust.edu.sa/en/).
+I am a research staff with [Telecommunication Networks (TKN) Group](https://www2.tkn.tu-berlin.de/) at the [School of Electrical Engineering and Computer Science](https://www.tu.berlin/eecs/), [TU Berlin](https://www.tu.berlin/), working under the supervision of [Prof. Dr.-Ing. habil. Falko Dressler](https://www2.tkn.tu-berlin.de/team/dressler/). I also hold a position at the [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where my advisors are [Prof. Dongxiao Yu](https://scholar.google.com/citations?user=hiQxuHYAAAAJ) and [Prof. Xiuzhen Cheng](https://scholar.google.com/citations?user=O1yGhH0AAAAJ). In addition, I have a close collaboration with [Prof. Di Wang](https://shao3wangdi.github.io/), the director of the [PRADA Lab](http://www.pradalab.org/) at [KAUST](https://www.kaust.edu.sa/en/).
 
 I obtained my bachelor's degree (with distinction) in Computer Science from the [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 

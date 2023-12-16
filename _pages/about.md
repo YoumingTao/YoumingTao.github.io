@@ -40,15 +40,15 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 
 (\* denotes equal contribution)
 
-## Manuscripts
-
-- Communication Efficient and Provable Federated Unlearning  
-[*Revision*] International Conference on Very Large Data Bases (VLDB 2024)  
 
 ## Peer-Refereed Conference Papers
 
+- Communication Efficient and Provable Federated Unlearning  
+**Youming Tao**\*, Chenglong Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
+The 50th International Conference on Very Large Databases (VLDB 2024)  
+
 - On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
-Yulian Wu\*, Xingyu Zhou\*, **Youming Tao** and Di Wang  
+Yulian Wu\*, Xingyu Zhou\*, **Youming Tao**, Di Wang  
 The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)  
 
 - Resource-Adaptive Newton's Method for Distributed Learning  [[arxiv]](https://arxiv.org/abs/2308.10154)  
@@ -93,6 +93,18 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 # Awards
 - <p style="text-align:left;">
+  President's Award, Shandong University
+  <span style="float:right;">
+  Nov. 2023
+  </span>
+  </p>
+- <p style="text-align:left;">
+  National Scholarship of China
+  <span style="float:right;">
+  Oct. 2023
+  </span>
+  </p>
+- <p style="text-align:left;">
   Outstanding Graduate Award, Shandong University
   <span style="float:right;">
   Jun. 2021
@@ -105,25 +117,6 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
   </span>
   </p>
 
-  Only **one** recipient out of 16 graduates in the Computer Science track of Taishan College
-- <p style="text-align:left;">
-  Merit Student Award, Shandong University
-  <span style="float:right;">
-  Sep. 2020
-  </span>
-  </p>
-- <p style="text-align:left;">
-  First-class Academic Scholarship, Shandong University
-  <span style="float:right;">
-  Sep. 2020
-  </span>
-  </p>
-- <p style="text-align:left;">
-  Reasearch and Innovation Scholarship, Shandong University
-  <span style="float:right;">
-  Sep. 2020
-  </span>
-  </p>
 
 
 # Professional Service

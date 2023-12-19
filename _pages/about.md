@@ -43,6 +43,10 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 
 ## Peer-Refereed Conference Papers
 
+- Correlation-Aware and Personalized Privacy-Preserving Data Collection  
+Dongxiao Yu, Kaiyi Zhang, **Youming Tao**, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
+International Conference on Computing, Networking and Communication (ICNC 2024)  
+
 - Communication Efficient and Provable Federated Unlearning  
 **Youming Tao**\*, Chenglong Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
 The 50th International Conference on Very Large Databases (VLDB 2024)  

@@ -25,6 +25,8 @@ I am a research staff with [Telecommunication Networks (TKN) Group](https://www2
 
 I obtained my bachelor's degree (with distinction) in Computer Science from the [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
+*Opening Positions:* Several research intern positions starting from Spring 2024 are available. Please drop me an email with your CV and transcripts, if you are interested.
+
 <!-- My most recent cv can be found [here]() -->
 
 # Research Statements

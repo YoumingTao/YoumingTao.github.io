@@ -50,7 +50,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 Dongxiao Yu, Kaiyi Zhang, **Youming Tao**, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
 International Conference on Computing, Networking and Communication (ICNC 2024)  
 
-- Communication Efficient and Provable Federated Unlearning  
+- Communication Efficient and Provable Federated Unlearning [[arxiv]](https://arxiv.org/abs/2401.11018)
 **Youming Tao**\*, Chenglong Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
 The 50th International Conference on Very Large Databases (VLDB 2024)  
 
@@ -62,7 +62,7 @@ The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
 Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  
 The 29th International Computing and Combinatorics Conference (COCOON 2023)  
 
-- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[full version]](../papers/Private_Stochastic_Convex_Optimization_and_Sparse_Learning.pdf)  [[link]](https://www.ijcai.org/proceedings/2022/548)  
+- Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[link]](https://www.ijcai.org/proceedings/2022/548)  
 **Youming Tao**, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 

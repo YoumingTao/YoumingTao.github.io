@@ -50,7 +50,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 Dongxiao Yu, Kaiyi Zhang, **Youming Tao**, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
 International Conference on Computing, Networking and Communication (ICNC 2024)  
 
-- Communication Efficient and Provable Federated Unlearning [[arxiv]](https://arxiv.org/abs/2401.11018)  
+- Communication Efficient and Provable Federated Unlearning [[arxiv]](https://arxiv.org/abs/2401.11018) [[link]](https://www.vldb.org/pvldb/vol17/p1119-wang.pdf)  
 **Youming Tao**\*, Chenglong Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
 The 50th International Conference on Very Large Databases (VLDB 2024)  
 

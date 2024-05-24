@@ -45,6 +45,10 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 
 ## Peer-Refereed Conference Papers
 
+- Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
+Ziqi Zhou, Youming Tao, Agon Memedi, Chunghan Lee, Seyhan Ucar, Onur Altintas, Falko Dressler  
+The 1st IEEE International Conference on Meta Computing (ICMC 2024)  
+
 - Correlation-Aware and Personalized Privacy-Preserving Data Collection  
 Dongxiao Yu, Kaiyi Zhang, **Youming Tao**, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
 International Conference on Computing, Networking and Communication (ICNC 2024)  
@@ -128,7 +132,7 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 # Professional Service
 - *Conference Reviewer/Program Committee Member* for AISTATS [2024](https://aistats.org/aistats2024/), ICASSP [2024](https://2024.ieeeicassp.org/), AAAI [2024](https://aaai.org/aaai-conference/) [2023](https://aaai.org/Conferences/AAAI-23/), ECML-PKDD [2022](https://2022.ecmlpkdd.org/)
 - *Conference Sub-reviewer* for CVPR [2024](https://cvpr.thecvf.com/Conferences/2024), NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
-- *Journal Reviewer* for [IEEE Transactions on Information Forensics & Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td), [IEEE Transactions on Computers (TC)](https://www.computer.org/csdl/journal/tc), [IEEE Transactions on Mobile Computing (TMC)](https://www.computer.org/csdl/journal/tm), [Frontiers of Computer Science (FCS)](https://www.springer.com/journal/11704)
+- *Journal Reviewer* for [IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)](https://www.comsoc.org/publications/journals/ieee-tmlcn), [IEEE Transactions on Information Forensics & Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td), [IEEE Transactions on Computers (TC)](https://www.computer.org/csdl/journal/tc), [IEEE Transactions on Mobile Computing (TMC)](https://www.computer.org/csdl/journal/tm), [Frontiers of Computer Science (FCS)](https://www.springer.com/journal/11704)
 
 <!-- #  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

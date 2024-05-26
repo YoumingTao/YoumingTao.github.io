@@ -45,6 +45,10 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 
 ## Peer-Refereed Conference Papers
 
+- Robust Matroid Bandit Optimization against Adversarial Contamination  
+Youming Tao, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
+The 30th International Computing and Combinatorics Conference (COCOON 24)  
+
 - Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
 Ziqi Zhou, Youming Tao, Agon Memedi, Chunghan Lee, Seyhan Ucar, Onur Altintas, Falko Dressler  
 The 1st IEEE International Conference on Meta Computing (ICMC 2024)  

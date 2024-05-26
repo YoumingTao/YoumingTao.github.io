@@ -46,7 +46,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 ## Peer-Refereed Conference Papers
 
 - Robust Matroid Bandit Optimization against Adversarial Contamination  
-**Youming Tao**, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
+<u>Youming Tao</u>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
 The 30th International Computing and Combinatorics Conference (COCOON 2024)  
 
 - Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
@@ -58,11 +58,11 @@ Dongxiao Yu, Kaiyi Zhang, **Youming Tao**, Wenlu Xu, Yifei Zou, Xiuzhen Cheng
 International Conference on Computing, Networking and Communication (ICNC 2024)  
 
 - Communication Efficient and Provable Federated Unlearning [[arxiv]](https://arxiv.org/abs/2401.11018) [[link]](https://www.vldb.org/pvldb/vol17/p1119-wang.pdf)  
-**Youming Tao**\*, Chenglong Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
+<u>Youming Tao</u>\*, Chenglong Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
 The 50th International Conference on Very Large Databases (VLDB 2024)  
 
 - On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  
-Yulian Wu\*, Xingyu Zhou\*, **Youming Tao**, Di Wang  
+Yulian Wu\*, Xingyu Zhou\*, <u>Youming Tao</u>, Di Wang  
 The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)  
 
 - Resource-Adaptive Newton's Method for Distributed Learning  [[arxiv]](https://arxiv.org/abs/2308.10154)  
@@ -70,11 +70,11 @@ Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu
 The 29th International Computing and Combinatorics Conference (COCOON 2023)  
 
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[link]](https://www.ijcai.org/proceedings/2022/548)  
-**Youming Tao**, Yulian Wu, Xiuzhen Cheng, Di Wang  
+<u>Youming Tao</u>, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
 
 - Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits [[arxiv]](https://arxiv.org/abs/2106.02575)  [[link]](https://proceedings.mlr.press/v151/tao22a.html)  
-**Youming Tao**\*, Yulian Wu\*, Peng Zhao, Di Wang  
+<u>Youming Tao</u>\*, Yulian Wu\*, Peng Zhao, Di Wang  
 The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
 **Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)**.
   - Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)  
@@ -85,11 +85,11 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 ## Peer-Refereed Journal Papers
 
 - Byzantine-Resilient Federated Learning at Edge [[arxiv]](https://arxiv.org/abs/2303.10434) [[link]](https://ieeexplore.ieee.org/abstract/document/10070815)  
-**Youming Tao**, Sijia Cui, Wenlu Xu, Haofei Yin, Dongxiao Yu, Weifa Liang, Xiuzhen Cheng  
+<u>Youming Tao</u>, Sijia Cui, Wenlu Xu, Haofei Yin, Dongxiao Yu, Weifa Liang, Xiuzhen Cheng  
 IEEE Transactions on Computers (Volume: 72, Issue: 9, 01 September 2023)  
 
 - A Distributed Privacy-Preserving Learning Dynamics in General Social Networks [[arxiv]](https://arxiv.org/pdf/2011.09845v2.pdf)  [[link]](https://ieeexplore.ieee.org/document/10035414)  
-**Youming Tao**, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
+<u>Youming Tao</u>, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
 IEEE Transactions on Knowledge and Data Engineering (Volume: 35, Issue: 9, 01 September 2023)
 
 - Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks [[link]](https://ieeexplore.ieee.org/abstract/document/9374104)  

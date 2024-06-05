@@ -58,7 +58,7 @@ Dongxiao Yu, Kaiyi Zhang, **Youming Tao**, Wenlu Xu, Yifei Zou, Xiuzhen Cheng
 International Conference on Computing, Networking and Communication (ICNC 2024)  
 
 - Communication Efficient and Provable Federated Unlearning [[arxiv]](https://arxiv.org/abs/2401.11018) [[link]](https://www.vldb.org/pvldb/vol17/p1119-wang.pdf)  
-<u>Youming Tao</u>\*, Chenglong Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
+<u>Youming Tao</u>\*, Cheng-Long Wang\*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
 The 50th International Conference on Very Large Databases (VLDB 2024)  
 
 - On Private and Robust Bandits [[arxiv]](https://arxiv.org/pdf/2302.02526.pdf)  

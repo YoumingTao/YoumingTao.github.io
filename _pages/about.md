@@ -84,7 +84,7 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 ## Peer-Refereed Journal Papers
 
-- Private Over-the-Air Federated Learning at Band-Limited Edge  
+- Private Over-the-Air Federated Learning at Band-Limited Edge [[link]](https://ieeexplore.ieee.org/abstract/document/10552080)  
 <u>Youming Tao</u>, Shuzhen Chen, Congwei Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  
 IEEE Transactions on Mobile Computing (In press)  
 

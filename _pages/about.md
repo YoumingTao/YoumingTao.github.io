@@ -25,7 +25,9 @@ I am a PhD student with [Telecommunication Networks (TKN) Group](https://www2.tk
 
 I obtained my bachelor's degree (with distinction) in Computer Science from the [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
+<!--
 ***Opening Positions:* If you are a TU Berlin student who is interested in doing a bachelor/master thesis on Distributed Machine Learning/Reinforcement Learning related topics within the TKN Group, feel free to drop me an email.**
+-->
 
 <!-- My most recent cv can be found [here]() -->
 

@@ -113,6 +113,12 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
 
 # Awards
 - <p style="text-align:left;">
+  National Scholarship of China
+  <span style="float:right;">
+  Nov. 2024
+  </span>
+  </p>
+- <p style="text-align:left;">
   President's Award, Shandong University
   <span style="float:right;">
   Nov. 2023
@@ -130,12 +136,14 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
   Jun. 2021
   </span>
   </p>
+<!--
 - <p style="text-align:left;">
   Dean's Award, Taishan (Honors) College
   <span style="float:right;">
   Jun. 2021
   </span>
   </p>
+-->  
 
 
 

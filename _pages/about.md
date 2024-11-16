@@ -130,10 +130,8 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
   Oct. 2023
   </span>
   </p>
-
-<!--
 - <p style="text-align:left;">
-  Outstanding Graduate Award, Shandong University
+  Outstanding Graduate, Shandong University
   <span style="float:right;">
   Jun. 2021
   </span>
@@ -144,7 +142,6 @@ IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
   Jun. 2021
   </span>
   </p>
--->  
 
 
 

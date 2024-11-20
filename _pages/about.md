@@ -88,7 +88,7 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 - Private Over-the-Air Federated Learning at Band-Limited Edge [[link]](https://ieeexplore.ieee.org/abstract/document/10552080)  
 <u>Youming Tao</u>, Shuzhen Chen, Congwei Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  
-IEEE Transactions on Mobile Computing (In press)  
+IEEE Transactions on Mobile Computing (Volume: 23, Issue: 12, December 2024)  
 
 - Byzantine-Resilient Federated Learning at Edge [[arxiv]](https://arxiv.org/abs/2303.10434) [[link]](https://ieeexplore.ieee.org/abstract/document/10070815)  
 <u>Youming Tao</u>, Sijia Cui, Wenlu Xu, Haofei Yin, Dongxiao Yu, Weifa Liang, Xiuzhen Cheng  

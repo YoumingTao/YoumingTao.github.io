@@ -67,10 +67,6 @@ The 50th International Conference on Very Large Databases (VLDB 2024)
 Yulian Wu\*, Xingyu Zhou\*, <u>Youming Tao</u>, Di Wang  
 The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)  
 
-- Resource-Adaptive Newton's Method for Distributed Learning  [[arxiv]](https://arxiv.org/abs/2308.10154)  
-Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  
-The 29th International Computing and Combinatorics Conference (COCOON 2023)  
-
 - Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited  [[link]](https://www.ijcai.org/proceedings/2022/548)  
 <u>Youming Tao</u>, Yulian Wu, Xiuzhen Cheng, Di Wang  
 The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
@@ -85,6 +81,12 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 
 
 ## Peer-Refereed Journal Papers
+
+- Adaptive pruning-based Newton's method for distributed learning [[link]](https://www.sciencedirect.com/science/article/pii/S0304397524006042)  
+
+Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  
+Theoretical Computer Science (Volume 1026)
+Previously presented in The 29th International Computing and Combinatorics Conference (COCOON 2023)  
 
 - Private Over-the-Air Federated Learning at Band-Limited Edge [[link]](https://ieeexplore.ieee.org/abstract/document/10552080)  
 <u>Youming Tao</u>, Shuzhen Chen, Congwei Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  

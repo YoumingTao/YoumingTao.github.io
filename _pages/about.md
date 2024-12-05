@@ -83,10 +83,9 @@ The 25th International Conference on Artificial Intelligence and Statistics (AIS
 ## Peer-Refereed Journal Papers
 
 - Adaptive pruning-based Newton's method for distributed learning [[link]](https://www.sciencedirect.com/science/article/pii/S0304397524006042)  
-
 Shuzhen Chen, Yuan Yuan, **Youming Tao**, Zhipeng Cai, Dongxiao Yu  
 Theoretical Computer Science (Volume 1026)
-Previously presented in The 29th International Computing and Combinatorics Conference (COCOON 2023)  
+*A prior version was presented in the 29th International Computing and Combinatorics Conference (COCOON 2023)*  
 
 - Private Over-the-Air Federated Learning at Band-Limited Edge [[link]](https://ieeexplore.ieee.org/abstract/document/10552080)  
 <u>Youming Tao</u>, Shuzhen Chen, Congwei Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  

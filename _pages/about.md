@@ -48,7 +48,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[COCOON]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[COCOON]</span>
     <div style="display: table-cell; text-align: left;">
       Robust Matroid Bandit Optimization against Adversarial Contamination  
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
@@ -56,7 +56,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[ICMC]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICMC]</span>
     <div style="display: table-cell; text-align: left;">
       Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
       <br>Ziqi Zhou, <strong>Youming Tao</strong>, Agon Memedi, Chunghan Lee, Seyhan Ucar, Onur Altintas, Falko Dressler  
@@ -64,7 +64,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[ICNC]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICNC]</span>
     <div style="display: table-cell; text-align: left;">
       Correlation-Aware and Personalized Privacy-Preserving Data Collection  
       <br>Dongxiao Yu, Kaiyi Zhang, <strong>Youming Tao</strong>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
@@ -72,7 +72,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[VLDB]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[VLDB]</span>
     <div style="display: table-cell; text-align: left;">
       Communication Efficient and Provable Federated Unlearning <a href="https://arxiv.org/abs/2401.11018">[arxiv]</a> <a href="https://www.vldb.org/pvldb/vol17/p1119-wang.pdf">[link]</a>  
       <br><strong>Youming Tao</strong>*, Cheng-Long Wang*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
@@ -80,7 +80,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[NeurIPS]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeurIPS]</span>
     <div style="display: table-cell; text-align: left;">
       On Private and Robust Bandits <a href="https://arxiv.org/pdf/2302.02526.pdf">[arxiv]</a>  
       <br>Yulian Wu*, Xingyu Zhou*, <strong>Youming Tao</strong>, Di Wang  
@@ -88,7 +88,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[IJCAI]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[IJCAI]</span>
     <div style="display: table-cell; text-align: left;">
       Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited <a href="https://www.ijcai.org/proceedings/2022/548">[link]</a>  
       <br><strong>Youming Tao</strong>, Yulian Wu, Xiuzhen Cheng, Di Wang  
@@ -96,7 +96,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[AISTATS]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[AISTATS]</span>
     <div style="display: table-cell; text-align: left;">
       Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits <a href="https://arxiv.org/abs/2106.02575">[arxiv]</a> <a href="https://proceedings.mlr.press/v151/tao22a.html">[link]</a>  
       <br><strong>Youming Tao</strong>*, Yulian Wu*, Peng Zhao, Di Wang  
@@ -113,7 +113,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
 
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[TCS]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TCS]</span>
     <div style="display: table-cell; text-align: left;">
       Adaptive pruning-based Newton's method for distributed learning <a href="https://www.sciencedirect.com/science/article/pii/S0304397524006042">[link]</a>  
       <br>Shuzhen Chen, Yuan Yuan, <strong>Youming Tao</strong>, Zhipeng Cai, Dongxiao Yu  
@@ -122,7 +122,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[TMC]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TMC]</span>
     <div style="display: table-cell; text-align: left;">
       Private Over-the-Air Federated Learning at Band-Limited Edge <a href="https://ieeexplore.ieee.org/abstract/document/10552080">[link]</a>  
       <br><strong>Youming Tao</strong>, Shuzhen Chen, Congwei Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  
@@ -130,7 +130,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[TC]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TC]</span>
     <div style="display: table-cell; text-align: left;">
       Byzantine-Resilient Federated Learning at Edge <a href="https://arxiv.org/abs/2303.10434">[arxiv]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10070815">[link]</a>  
       <br><strong>Youming Tao</strong>, Sijia Cui, Wenlu Xu, Haofei Yin, Dongxiao Yu, Weifa Liang, Xiuzhen Cheng  
@@ -138,7 +138,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[TKDE]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TKDE]</span>
     <div style="display: table-cell; text-align: left;">
       A Distributed Privacy-Preserving Learning Dynamics in General Social Networks <a href="https://arxiv.org/pdf/2011.09845v2.pdf">[arxiv]</a> <a href="https://ieeexplore.ieee.org/document/10035414">[link]</a>  
       <br><strong>Youming Tao</strong>, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
@@ -146,7 +146,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[TVT]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TVT]</span>
     <div style="display: table-cell; text-align: left;">
       Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks <a href="https://ieeexplore.ieee.org/abstract/document/9374104">[link]</a>  
       <br>Dongxiao Yu, Zongrui Zou, Shuzhen Chen, <strong>Youming Tao</strong>, Bing Tian, Weifeng Lv, Xiuzhen Cheng  
@@ -154,7 +154,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[JSA]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[JSA]</span>
     <div style="display: table-cell; text-align: left;">
       Distributed Learning Dynamics of Multi-Armed Bandits for Edge Intelligence <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762120301806">[link]</a>  
       <br>Shuzhen Chen, <strong>Youming Tao</strong>, Dongxiao Yu, FengLi, Bei Gong  
@@ -162,7 +162,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 120px; vertical-align: top; text-align: left;">[IOTJ]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[IOTJ]</span>
     <div style="display: table-cell; text-align: left;">
       Privacy-Preserving Collaborative Learning for Multi-Armed Bandits in IoT <a href="https://ieeexplore.ieee.org/abstract/document/9165854">[link]</a>  
       <br>Shuzhen Chen, <strong>Youming Tao</strong>, Dongxiao Yu, Feng Li, Bei Gong, Xiuzhen Cheng  

@@ -102,9 +102,9 @@ Ultimately, my research aims to use theory as a guide for building innovative an
       <br><strong>Youming Tao</strong>*, Yulian Wu*, Peng Zhao, Di Wang  
       <br>The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
       <br><em>Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)</em>.  
-      <br>- Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (RDMDE 2022)  
+      <br>- Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (ICML-RDMDE 2022)  
       <br><em>Selected as contributed talk (Acceptance Rate: 4/40).</em>  
-      <br>- Presented at CCS 2021 Workshop on Privacy Preserving Machine Learning (PPML 2022)
+      <br>- Presented at CCS 2021 Workshop on Privacy Preserving Machine Learning (CCS-PPML 2022)
     </div>
   </li>
 </ul>

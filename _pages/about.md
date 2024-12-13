@@ -52,7 +52,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Robust Matroid Bandit Optimization against Adversarial Contamination  
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
-      <br>The 30th International Computing and Combinatorics Conference (COCOON 2024)
+      <br><em>The 30th International Computing and Combinatorics Conference (COCOON 2024)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -60,7 +60,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
       <br>Ziqi Zhou, <strong>Youming Tao</strong>, Agon Memedi, Chunghan Lee, Seyhan Ucar, Onur Altintas, Falko Dressler  
-      <br>The 1st IEEE International Conference on Meta Computing (ICMC 2024)
+      <br><em>he 1st IEEE International Conference on Meta Computing (ICMC 2024)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -68,7 +68,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Correlation-Aware and Personalized Privacy-Preserving Data Collection  
       <br>Dongxiao Yu, Kaiyi Zhang, <strong>Youming Tao</strong>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
-      <br>International Conference on Computing, Networking and Communication (ICNC 2024)
+      <br><em>International Conference on Computing, Networking and Communication (ICNC 2024)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -76,7 +76,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Communication Efficient and Provable Federated Unlearning <a href="https://arxiv.org/abs/2401.11018">[arxiv]</a> <a href="https://www.vldb.org/pvldb/vol17/p1119-wang.pdf">[link]</a>  
       <br><strong>Youming Tao</strong>*, Cheng-Long Wang*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
-      <br>The 50th International Conference on Very Large Databases (VLDB 2024)
+      <br><em>The 50th International Conference on Very Large Databases (VLDB 2024)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -84,7 +84,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       On Private and Robust Bandits <a href="https://arxiv.org/pdf/2302.02526.pdf">[arxiv]</a>  
       <br>Yulian Wu*, Xingyu Zhou*, <strong>Youming Tao</strong>, Di Wang  
-      <br>The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
+      <br><em>The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -92,7 +92,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Private Stochastic Convex Optimization and Sparse Learning with Heavy-tailed Data Revisited <a href="https://www.ijcai.org/proceedings/2022/548">[link]</a>  
       <br><strong>Youming Tao</strong>, Yulian Wu, Xiuzhen Cheng, Di Wang  
-      <br>The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)
+      <br><em>The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -100,10 +100,10 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits <a href="https://arxiv.org/abs/2106.02575">[arxiv]</a> <a href="https://proceedings.mlr.press/v151/tao22a.html">[link]</a>  
       <br><strong>Youming Tao</strong>*, Yulian Wu*, Peng Zhao, Di Wang  
-      <br>The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  
-      <br><em>Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)</em>.  
+      <br><em>The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)</em>  
+      <br><span style="color: red;">Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)</span>.  
       <br>- Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (ICML-RDMDE 2022)  
-      <br><em>Selected as contributed talk (Acceptance Rate: 4/40).</em>  
+      <br><span style="color: red;">Selected as contributed talk.</span>  
       <br>- Presented at CCS 2021 Workshop on Privacy Preserving Machine Learning (CCS-PPML 2022)
     </div>
   </li>
@@ -117,7 +117,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Adaptive pruning-based Newton's method for distributed learning <a href="https://www.sciencedirect.com/science/article/pii/S0304397524006042">[link]</a>  
       <br>Shuzhen Chen, Yuan Yuan, <strong>Youming Tao</strong>, Zhipeng Cai, Dongxiao Yu  
-      <br>Theoretical Computer Science (Volume 1026)  
+      <br><em>Theoretical Computer Science (Volume 1026)</em>  
       <br><em>A prior version was presented in the 29th International Computing and Combinatorics Conference (COCOON 2023)</em>
     </div>
   </li>
@@ -126,7 +126,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Private Over-the-Air Federated Learning at Band-Limited Edge <a href="https://ieeexplore.ieee.org/abstract/document/10552080">[link]</a>  
       <br><strong>Youming Tao</strong>, Shuzhen Chen, Congwei Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  
-      <br>IEEE Transactions on Mobile Computing (Volume: 23, Issue: 12, December 2024)
+      <br><em>IEEE Transactions on Mobile Computing (Volume: 23, Issue: 12, December 2024)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -134,7 +134,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Byzantine-Resilient Federated Learning at Edge <a href="https://arxiv.org/abs/2303.10434">[arxiv]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10070815">[link]</a>  
       <br><strong>Youming Tao</strong>, Sijia Cui, Wenlu Xu, Haofei Yin, Dongxiao Yu, Weifa Liang, Xiuzhen Cheng  
-      <br>IEEE Transactions on Computers (Volume: 72, Issue: 9, 01 September 2023)
+      <br><em>IEEE Transactions on Computers (Volume: 72, Issue: 9, 01 September 2023)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -142,7 +142,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       A Distributed Privacy-Preserving Learning Dynamics in General Social Networks <a href="https://arxiv.org/pdf/2011.09845v2.pdf">[arxiv]</a> <a href="https://ieeexplore.ieee.org/document/10035414">[link]</a>  
       <br><strong>Youming Tao</strong>, Shuzhen Chen, Feng Li, Dongxiao Yu, Jiguo Yu, Hao Sheng  
-      <br>IEEE Transactions on Knowledge and Data Engineering (Volume: 35, Issue: 9, 01 September 2023)
+      <br><em>IEEE Transactions on Knowledge and Data Engineering (Volume: 35, Issue: 9, 01 September 2023)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -150,7 +150,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Decentralized Parallel SGD With Privacy Preservation in Vehicular Networks <a href="https://ieeexplore.ieee.org/abstract/document/9374104">[link]</a>  
       <br>Dongxiao Yu, Zongrui Zou, Shuzhen Chen, <strong>Youming Tao</strong>, Bing Tian, Weifeng Lv, Xiuzhen Cheng  
-      <br>IEEE Transactions on Vehicular Technology (Volume 70, Issue 6, June 2021)
+      <br><em>IEEE Transactions on Vehicular Technology (Volume 70, Issue 6, June 2021)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -158,7 +158,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Distributed Learning Dynamics of Multi-Armed Bandits for Edge Intelligence <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762120301806">[link]</a>  
       <br>Shuzhen Chen, <strong>Youming Tao</strong>, Dongxiao Yu, FengLi, Bei Gong  
-      <br>Journal of Systems Architecture (Volume 114, March 2021)
+      <br><em>Journal of Systems Architecture (Volume 114, March 2021)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -166,7 +166,7 @@ Ultimately, my research aims to use theory as a guide for building innovative an
     <div style="display: table-cell; text-align: left;">
       Privacy-Preserving Collaborative Learning for Multi-Armed Bandits in IoT <a href="https://ieeexplore.ieee.org/abstract/document/9165854">[link]</a>  
       <br>Shuzhen Chen, <strong>Youming Tao</strong>, Dongxiao Yu, Feng Li, Bei Gong, Xiuzhen Cheng  
-      <br>IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)
+      <br><em>IEEE Internet of Things Journal (Volume 8, Issue 5, March 2021)</em>
     </div>
   </li>
 </ul>

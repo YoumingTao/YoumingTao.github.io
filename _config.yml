@@ -7,9 +7,7 @@
 
 # Site Settings
 title                    : "Youming Tao (陶又铭)"
-description              : |
-                            Einsteinufer 25, FT 5
-                            10587 Berlin, Germany
+description              : ""
 repository               : "YoumingTao/YoumingTao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Youming Tao"
   avatar           : "images/web_photo.png"
-  bio              : #"Shandong University"
+  bio              : "??"
   location         : 
   employer         :
   pubmed           : 

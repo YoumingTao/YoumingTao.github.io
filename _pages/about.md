@@ -31,7 +31,7 @@ I obtained my bachelor's degree (with distinction) in Computer Science from the 
 
 <!-- My most recent cv can be found [here]() -->
 
-# Research Statements
+# Research 
 
 My research interests lie at the intersection of artificial intelligence and information networking. Currently, I am mainly focused on developing trustworthy collaborative machine learning algorithms for edge intelligence. Specifically, my research aims to address the following challenge:
 

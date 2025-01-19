@@ -37,7 +37,9 @@ My research interests lie at the intersection of artificial intelligence and inf
 
 **How can we ensure *data privacy*, *fault tolerance*, *algorithmic stability*, *communication/computation efficiency* and *rapid convergence* during the collaborative machine learning and optimization process, especially for edge scenarios with constrained computation/memory capability, limited communication bandwidth, highly dynamic topology and malicious adversaries?**
 
-Ultimately, my research aims to use theory as a guide for building innovative and impactful solutions for the real world.
+Ultimately, my research aims to use theory as a guide for building innovative and impactful solutions for the real world. 
+
+My research was supported by the inaugural batch of the National Natural Science Foundation of China's Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] and the inaugural batch of the China Association for Science and Technology's Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划].
 
 
 # Publications  

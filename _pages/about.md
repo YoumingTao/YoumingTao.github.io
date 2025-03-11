@@ -25,10 +25,6 @@ I am a final-year PhD candidate with [Telecommunication Networks (TKN) Group](ht
 
 I obtained my bachelor's degree (with distinction) in Computer Science from the [Taishan (Honors) College](https://www.tsxt.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2021.
 
-<!--
-***Opening Positions:* If you are a TU Berlin student who is interested in doing a bachelor/master thesis on Distributed Machine Learning/Reinforcement Learning related topics within the TKN Group, feel free to drop me an email.**
--->
-
 <!-- My most recent cv can be found [here]() -->
 
 # Research 
@@ -40,6 +36,8 @@ My research interests lie at the intersection of artificial intelligence and inf
 Ultimately, my research aims to use theory as a guide for building innovative and impactful solutions for the real world. 
 
 My research was supported by the inaugural batch of the National Natural Science Foundation of China's Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] and the inaugural batch of the China Association for Science and Technology's Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划].
+
+<span style="color: red;">Opennings:</span> I am always looking for motivated students to collaborate on research projects. If you are interested, please email me with your CV attached. A stipend is available, though it is typically reserved for students with prior collaboration experience.
 
 
 # Publications  

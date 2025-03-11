@@ -29,11 +29,13 @@ I obtained my bachelor's degree (with distinction) in Computer Science from the 
 
 # Research 
 
-My research interests lie at the intersection of artificial intelligence and information networking. Currently, I am mainly focused on developing trustworthy collaborative machine learning algorithms for edge intelligence. Specifically, my research aims to address the following challenge:
+My research lies at the intersection of artificial intelligence and information networking, with a primary focus on developing resource-efficient and trustworthy learning algorithms for edge AI. I am particularly interested in decision-making problems (bandit learning and reinforcement learning) and (stochastic) optimization.
 
-**How can we ensure *data privacy*, *fault tolerance*, *algorithmic stability*, *communication/computation efficiency* and *rapid convergence* during the collaborative machine learning and optimization process, especially for edge scenarios with constrained computation/memory capability, limited communication bandwidth, highly dynamic topology and malicious adversaries?**
+At its core, my research addresses the following challenge:
 
-Ultimately, my research aims to use theory as a guide for building innovative and impactful solutions for the real world. 
+How can we ensure data privacy, fault tolerance, and communication/computation efficiency while maintaining strong learning performance in edge environments where resources are constrained, communication bandwidth is limited, topology is highly dynamic, and adversaries may be present?
+
+My work aims to bridge theory and practice, leveraging theoretical insights to develop innovative, scalable, and impactful real-world solutions.
 
 My research was supported by the inaugural batch of the National Natural Science Foundation of China's Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] and the inaugural batch of the China Association for Science and Technology's Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划].
 

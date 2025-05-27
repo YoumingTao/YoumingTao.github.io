@@ -50,6 +50,14 @@ My research was supported by the inaugural batch of the National Natural Science
 
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ECML]</span>
+    <div style="display: table-cell; text-align: left;">
+      Differentially Private Sparse Linear Regression with Heavy-tailed Responses  
+      <br>Xizhi Tian, Meng Ding, <strong>Youming Tao</strong>, Zihang Xiang, Di Wang  
+      <br><em>The 36th European Conference on Machine Learning (ECML 2025)</em>
+    </div>
+  </li>
+  <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[COCOON]</span>
     <div style="display: table-cell; text-align: left;">
       Robust Matroid Bandit Optimization against Adversarial Contamination  
@@ -62,7 +70,7 @@ My research was supported by the inaugural batch of the National Natural Science
     <div style="display: table-cell; text-align: left;">
       Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
       <br>Ziqi Zhou, <strong>Youming Tao</strong>, Agon Memedi, Chunghan Lee, Seyhan Ucar, Onur Altintas, Falko Dressler  
-      <br><em>he 1st IEEE International Conference on Meta Computing (ICMC 2024)</em>
+      <br><em>The 1st IEEE International Conference on Meta Computing (ICMC 2024)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

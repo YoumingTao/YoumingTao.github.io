@@ -37,7 +37,7 @@ How can we ensure data privacy, fault tolerance, and communication/computation e
 
 My work aims to bridge theory and practice, leveraging theoretical insights to develop innovative, scalable, and impactful real-world solutions.
 
-My research was supported by the inaugural batch of the National Natural Science Foundation of China's Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] and the inaugural batch of the China Association for Science and Technology's Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划].
+<!-- My research was supported by the inaugural batch of the National Natural Science Foundation of China's Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] and the inaugural batch of the China Association for Science and Technology's Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划]. -->
 
 <span style="color: red;">Opennings:</span> I am always looking for motivated students to collaborate on research projects. If you are interested, please email me with your CV attached. A stipend is available, though it is typically reserved for students with prior collaboration experience.
 

@@ -54,7 +54,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <div style="display: table-cell; text-align: left;">
       Differentially Private Sparse Linear Regression with Heavy-tailed Responses  
       <br>Xizhi Tian, Meng Ding, <strong>Youming Tao</strong>, Zihang Xiang, Di Wang  
-      <br><em>The 36th European Conference on Machine Learning (ECML 2025)</em>
+      <br><em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2025 (ECML-PKDD 2025)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

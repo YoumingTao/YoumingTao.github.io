@@ -128,7 +128,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
       Robust Matroid Bandit Optimization: Near-Optimal Rates under Adversarial Contamination 
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
       <br><em>Theoretical Computer Science (To apper)</em>  
-      <br><em>A prior version was presented in the 29th International Computing and Combinatorics Conference (COCOON 2024)</em>
+      <br><em>A prior version was presented in the 30th International Computing and Combinatorics Conference (COCOON 2024)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

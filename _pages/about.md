@@ -68,17 +68,17 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICMC]</span>
     <div style="display: table-cell; text-align: left;">
-      Optimizing Task Migration Decisions in Vehicular Edge Computing Environments <strong>[Invited Paper]</strong> 
+      Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
       <br>Ziqi Zhou, <strong>Youming Tao</strong>, Agon Memedi, Chunghan Lee, Seyhan Ucar, Onur Altintas, Falko Dressler  
-      <br><em>The 1st IEEE International Conference on Meta Computing (ICMC 2024) Invited Paper</em>
+      <br><em>The 1st IEEE International Conference on Meta Computing (ICMC 2024)</em>——<strong><em>Invited Paper</em></strong>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICNC]</span>
     <div style="display: table-cell; text-align: left;">
-      Correlation-Aware and Personalized Privacy-Preserving Data Collection <strong>[Invited Paper]</strong>
+      Correlation-Aware and Personalized Privacy-Preserving Data Collection 
       <br>Dongxiao Yu, Kaiyi Zhang, <strong>Youming Tao</strong>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
-      <br><em>International Conference on Computing, Networking and Communication (ICNC 2024) Invited Paper</em>
+      <br><em>International Conference on Computing, Networking and Communication (ICNC 2024)</em>——<strong><em>Invited Paper</em></strong>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

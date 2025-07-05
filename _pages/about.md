@@ -52,7 +52,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ECML]</span>
     <div style="display: table-cell; text-align: left;">
-      Differentially Private Sparse Linear Regression with Heavy-tailed Responses  
+      Differentially Private Sparse Linear Regression with Heavy-tailed Responses <a href="https://arxiv.org/abs/2506.06861">[arxiv]</a>  
       <br>Xizhi Tian, Meng Ding, <strong>Youming Tao</strong>, Zihang Xiang, Di Wang  
       <br><em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2025 (ECML-PKDD 2025)</em>
     </div>
@@ -60,7 +60,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[COCOON]</span>
     <div style="display: table-cell; text-align: left;">
-      Robust Matroid Bandit Optimization against Adversarial Contamination  
+      Robust Matroid Bandit Optimization against Adversarial Contamination <a href="https://link.springer.com/chapter/10.1007/978-981-96-1090-7_27">[link]</a>  
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
       <br><em>The 30th International Computing and Combinatorics Conference (COCOON 2024)</em>
     </div>
@@ -76,7 +76,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICNC]</span>
     <div style="display: table-cell; text-align: left;">
-      <strong>[Invited Paper]</strong> Correlation-Aware and Personalized Privacy-Preserving Data Collection 
+      <strong>[Invited Paper]</strong> Correlation-Aware and Personalized Privacy-Preserving Data Collection <a href="https://ieeexplore.ieee.org/document/10556247">[link]</a>  
       <br>Dongxiao Yu, Kaiyi Zhang, <strong>Youming Tao</strong>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
       <br><em>International Conference on Computing, Networking and Communication (ICNC 2024)</em>
     </div>
@@ -125,7 +125,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TCS]</span>
     <div style="display: table-cell; text-align: left;">
-      Robust Matroid Bandit Optimization: Near-Optimal Rates under Adversarial Contamination 
+      Robust Matroid Bandit Optimization: Near-Optimal Rates under Adversarial Contamination <a href=https://www.sciencedirect.com/science/article/pii/S0304397525003548"">[link]</a>  
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
       <br><em>Theoretical Computer Science (To apper)</em>  
     </div>

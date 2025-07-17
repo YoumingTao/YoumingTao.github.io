@@ -127,7 +127,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <div style="display: table-cell; text-align: left;">
       Robust Matroid Bandit Optimization: Near-Optimal Rates under Adversarial Contamination <a href="https://www.sciencedirect.com/science/article/pii/S0304397525003548">[link]</a>  
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
-      <br><em>Theoretical Computer Science (Volume 1051)</em>  
+      <br><em>Theoretical Computer Science (Volume 1051, October 2025, 115416)</em>  
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
@@ -135,7 +135,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <div style="display: table-cell; text-align: left;">
       Adaptive pruning-based Newton's method for distributed learning <a href="https://www.sciencedirect.com/science/article/pii/S0304397524006042">[link]</a>  
       <br>Shuzhen Chen, Yuan Yuan, <strong>Youming Tao</strong>, Zhipeng Cai, Dongxiao Yu  
-      <br><em>Theoretical Computer Science (Volume 1026)</em>  
+      <br><em>Theoretical Computer Science (Volume 1026, February 2025, 114987)</em>  
       <br><em>A prior version was presented in the 29th International Computing and Combinatorics Conference (COCOON 2023)</em>
     </div>
   </li>

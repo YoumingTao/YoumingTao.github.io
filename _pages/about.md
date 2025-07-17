@@ -127,7 +127,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <div style="display: table-cell; text-align: left;">
       Robust Matroid Bandit Optimization: Near-Optimal Rates under Adversarial Contamination <a href="https://www.sciencedirect.com/science/article/pii/S0304397525003548">[link]</a>  
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
-      <br><em>Theoretical Computer Science (To apper)</em>  
+      <br><em>Theoretical Computer Science (Volume 1051)</em>  
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

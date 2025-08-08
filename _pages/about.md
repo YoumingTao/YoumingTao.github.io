@@ -224,9 +224,57 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 
 # Professional Service
-- *Conference Reviewer/Program Committee Member* for DLS@IEEE MASS [2025](https://bds-sdu.github.io/DLS-2025/#), NeurIPS [2025](https://neurips.cc/Conferences/2025) [2024](https://neurips.cc/Conferences/2024), ICML [2025](https://icml.cc/Conferences/2025), ICLR [2025](https://iclr.cc/Conferences/2025), AISTATS [2025](https://aistats.org/aistats2025/index.html) [2024](https://aistats.org/aistats2024/), AAAI [2025](https://aaai.org/conference/aaai/aaai-25/) [2024](https://aaai.org/aaai-conference/) [2023](https://aaai.org/Conferences/AAAI-23/), ICASSP [2025](https://2025.ieeeicassp.org/) [2024](https://2024.ieeeicassp.org/), ECML-PKDD [2022](https://2022.ecmlpkdd.org/)
-- *Conference Sub-reviewer* for CVPR [2024](https://cvpr.thecvf.com/Conferences/2024), NeurIPS [2023](https://nips.cc/Conferences/2023), ICML [2023](https://icml.cc/Conferences/2023), Euro S&P [2023](https://www.ieee-security.org/TC/EuroSP2023/), ICLR [2023](https://iclr.cc/Conferences/2023), AISTATS [2023](http://aistats.org/aistats2023/), ESORICS [2022](https://esorics2022.compute.dtu.dk/index.html)
-- *Journal Reviewer* for [ACM Transactions on Probabilistic Machine Learning (TOPML)](https://dl.acm.org/journal/topml), [Information Processing & Management (IP&M)](https://www.sciencedirect.com/journal/information-processing-and-management), [IEEE/ACM Transactions on Networking (TON)](https://sites.google.com/view/ieee-acm-ton/home), [IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)](https://www.comsoc.org/publications/journals/ieee-tmlcn), [IEEE Transactions on Information Forensics & Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [IEEE Transactions on Parallel and Distributed Systems (TPDS)](https://www.computer.org/csdl/journal/td), [IEEE Transactions on Computers (TC)](https://www.computer.org/csdl/journal/tc), [IEEE Transactions on Mobile Computing (TMC)](https://www.computer.org/csdl/journal/tm), [Frontiers of Computer Science (FCS)](https://www.springer.com/journal/11704)
+<ul class="service">
+  <li>
+    <em>Conference Reviewer / Program Committee Member</em>
+    <div class="rows">
+      DLS @ IEEE MASS: <a href="https://bds-sdu.github.io/DLS-2025/#">2025</a><br>
+      NeurIPS: <a href="https://neurips.cc/Conferences/2025">2025</a>, <a href="https://neurips.cc/Conferences/2024">2024</a><br>
+      ICML: <a href="https://icml.cc/Conferences/2025">2025</a><br>
+      ICLR: <a href="https://iclr.cc/Conferences/2025">2025</a><br>
+      AISTATS: <a href="https://aistats.org/aistats2025/index.html">2025</a>, <a href="https://aistats.org/aistats2024/">2024</a><br>
+      AAAI: <a href="https://aaai.org/conference/aaai/aaai-25/">2025</a>, <a href="https://aaai.org/aaai-conference/">2024</a>, <a href="https://aaai.org/Conferences/AAAI-23/">2023</a><br>
+      ICASSP: <a href="https://2025.ieeeicassp.org/">2025</a>, <a href="https://2024.ieeeicassp.org/">2024</a><br>
+      ECML-PKDD: <a href="https://2022.ecmlpkdd.org/">2022</a>
+    </div>
+  </li>
+
+  <li>
+    <em>Conference external reviewer</em>
+    <div class="rows">
+      CVPR: <a href="https://cvpr.thecvf.com/Conferences/2024">2024</a><br>
+      NeurIPS: <a href="https://nips.cc/Conferences/2023">2023</a><br>
+      ICML: <a href="https://icml.cc/Conferences/2023">2023</a><br>
+      ICLR: <a href="https://iclr.cc/Conferences/2023">2023</a><br>
+      AISTATS: <a href="http://aistats.org/aistats2023/">2023</a><br>
+      Euro S&amp;P: <a href="https://www.ieee-security.org/TC/EuroSP2023/">2023</a><br>
+      ESORICS: <a href="https://esorics2022.compute.dtu.dk/index.html">2022</a>
+    </div>
+  </li>
+
+  <li>
+    <em>Journal Reviewer</em>
+    <div class="rows">
+      <a href="https://dl.acm.org/journal/topml">ACM Transactions on Probabilistic Machine Learning (TOPML)</a><br>
+      <a href="https://www.sciencedirect.com/journal/information-processing-and-management">Information Processing &amp; Management (IP&amp;M)</a><br>
+      <a href="https://sites.google.com/view/ieee-acm-ton/home">IEEE/ACM Transactions on Networking (TON)</a><br>
+      <a href="https://www.comsoc.org/publications/journals/ieee-tmlcn">IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</a><br>
+      <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">IEEE Transactions on Information Forensics &amp; Security (TIFS)</a><br>
+      <a href="https://www.computer.org/csdl/journal/td">IEEE Transactions on Parallel and Distributed Systems (TPDS)</a><br>
+      <a href="https://www.computer.org/csdl/journal/tc">IEEE Transactions on Computers (TC)</a><br>
+      <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing (TMC)</a><br>
+      <a href="https://www.springer.com/journal/11704">Frontiers of Computer Science (FCS)</a>
+    </div>
+  </li>
+</ul>
+
+<style>
+  /* 让内容和标题左边齐平 */
+  .service { margin: 0; padding-left: 1.2em; }          /* 1.2em 控制 bullet 区域宽度 */
+  .service li { margin: 0 0 .6em 0; }                   /* 各大项之间统一间距 */
+  .service li > em { font-style: italic; }
+  .service .rows { margin: .2em 0 0 0; line-height: 1.35; } /* 标题与第一行之间微小间距，避免看起来粘连 */
+</style>
 
 
 <!-- #  Educations

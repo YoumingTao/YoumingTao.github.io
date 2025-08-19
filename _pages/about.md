@@ -49,6 +49,24 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 ## Peer-Refereed Conference Papers
 
 <ul style="list-style: none; padding-left: 0;">
+<!--
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeurIPS]</span>
+    <div style="display: table-cell; text-align: left;">
+      	Second-Order Convergence in Private Stochastic Non-Convex Optimization   
+      <br><strong>Youming Tao</strong>, Zuyuan Zhang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler, Di Wang    
+      <br><em>The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</em>
+    </div>
+  </li>
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiArch@MobiCom]</span>
+    <div style="display: table-cell; text-align: left;">
+      Differentially Private Matroid Bandits for Online Network Topology Optimization   
+      <br><strong>Youming Tao</strong>, Shuzhen Chen, Kai Li, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler    
+      <br><em>The 20th ACM Workshop on Mobility in the Evolving Internet Architecture@MobiCom 2025 (MobiArch@MobiCom 2025)</em>
+    </div>
+  </li>
+-->
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ECML]</span>
     <div style="display: table-cell; text-align: left;">
@@ -94,7 +112,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <div style="display: table-cell; text-align: left;">
       On Private and Robust Bandits <a href="https://arxiv.org/pdf/2302.02526.pdf">[arxiv]</a> <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/6d13e085b79d454da5910e4ca82a3d9d-Abstract-Conference.html">[link]</a>  
       <br>Yulian Wu*, Xingyu Zhou*, <strong>Youming Tao</strong>, Di Wang  
-      <br><em>The 37th Conference on Neural Information Processing Systems (NeurIPS 2023)</em>
+      <br><em>The 37th Annual Conference on Neural Information Processing Systems (NeurIPS 2023)</em>
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

@@ -86,7 +86,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICMC]</span>
     <div style="display: table-cell; text-align: left;">
-      <strong>[Invited Paper]</strong> Optimizing Task Migration Decisions in Vehicular Edge Computing Environments  
+      <strong>[Invited Paper]</strong> Optimizing Task Migration Decisions in Vehicular Edge Computing Environments <a href="https://ieeexplore.ieee.org/document/11062755">[link]</a>  
       <br>Ziqi Zhou, <strong>Youming Tao</strong>, Agon Memedi, Chunghan Lee, Seyhan Ucar, Onur Altintas, Falko Dressler  
       <br><em>The 1st IEEE International Conference on Meta Computing (ICMC 2024)</em>
     </div>

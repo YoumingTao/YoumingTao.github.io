@@ -46,6 +46,18 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 (\* denotes equal contribution)
 
+## Preprints
+
+<li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[Arxiv]</span>
+    <div style="display: table-cell; text-align: left;">
+      	Second-Order Convergence in Private Stochastic Non-Convex Optimization   
+      <br><strong>Youming Tao</strong>, Zuyuan Zhang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler, Di Wang    
+      <br><em><a href="https://arxiv.org/abs/2505.15647v1">arXiv:2505.15647 [cs.LG]</a></em>
+    </div>
+  </li>
+
+
 ## Peer-Refereed Conference Papers
 
 <ul style="list-style: none; padding-left: 0;">

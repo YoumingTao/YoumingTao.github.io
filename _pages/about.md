@@ -61,24 +61,6 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 ## Peer-Refereed Conference Papers
 
 <ul style="list-style: none; padding-left: 0;">
-<!--
-  <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeurIPS]</span>
-    <div style="display: table-cell; text-align: left;">
-      	Second-Order Convergence in Private Stochastic Non-Convex Optimization   
-      <br><strong>Youming Tao</strong>, Zuyuan Zhang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler, Di Wang    
-      <br><em>The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</em>
-    </div>
-  </li>
-  <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiArch@MobiCom]</span>
-    <div style="display: table-cell; text-align: left;">
-      Differentially Private Matroid Bandits for Online Network Topology Optimization   
-      <br><strong>Youming Tao</strong>, Shuzhen Chen, Kai Li, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler    
-      <br><em>The 20th ACM Workshop on Mobility in the Evolving Internet Architecture@MobiCom 2025 (MobiArch@MobiCom 2025)</em>
-    </div>
-  </li>
--->
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ECML]</span>
     <div style="display: table-cell; text-align: left;">
@@ -251,21 +233,19 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   </span>
   </p>
 
-
-
 # Professional Service
 <ul class="service">
   <li>
     <em>Conference Reviewer / Program Committee Member</em>
     <div class="rows">
-      DLS @ IEEE MASS: <a href="https://bds-sdu.github.io/DLS-2025/#">2025</a><br>
       NeurIPS: <a href="https://neurips.cc/Conferences/2025">2025</a>, <a href="https://neurips.cc/Conferences/2024">2024</a><br>
       ICML: <a href="https://icml.cc/Conferences/2025">2025</a><br>
       ICLR: <a href="https://iclr.cc/Conferences/2025">2025</a><br>
-      AISTATS: <a href="https://aistats.org/aistats2025/index.html">2025</a>, <a href="https://aistats.org/aistats2024/">2024</a><br>
-      AAAI: <a href="https://aaai.org/conference/aaai/aaai-25/">2025</a>, <a href="https://aaai.org/aaai-conference/">2024</a>, <a href="https://aaai.org/Conferences/AAAI-23/">2023</a><br>
+      AISTATS: <a href="https://aistats.org/aistats2026/">2026</a>, <a href="https://aistats.org/aistats2025/index.html">2025</a>, <a href="https://aistats.org/aistats2024/">2024</a><br>
+      AAAI: <a href="https://aaai.org/conference/aaai/aaai-26/">2026</a>, <a href="https://aaai.org/conference/aaai/aaai-25/">2025</a>, <a href="https://aaai.org/aaai-conference/">2024</a>, <a href="https://aaai.org/Conferences/AAAI-23/">2023</a><br>
+      ECML-PKDD: <a href="https://2022.ecmlpkdd.org/">2022</a><br>
       ICASSP: <a href="https://2025.ieeeicassp.org/">2025</a>, <a href="https://2024.ieeeicassp.org/">2024</a><br>
-      ECML-PKDD: <a href="https://2022.ecmlpkdd.org/">2022</a>
+      DLS @ IEEE MASS: <a href="https://bds-sdu.github.io/DLS-2025/#committees">2025</a><br>
     </div>
   </li>
 

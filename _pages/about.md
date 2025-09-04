@@ -99,6 +99,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
       Communication Efficient and Provable Federated Unlearning <a href="https://arxiv.org/abs/2401.11018">[arxiv]</a> <a href="https://www.vldb.org/pvldb/vol17/p1119-wang.pdf">[link]</a>  
       <br><strong>Youming Tao</strong>*, Cheng-Long Wang*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
       <br><em>The 50th International Conference on Very Large Databases (VLDB 2024)</em>
+      <br>- Presented as a Hot Topics Talk at International Conference on Networked Systems 2025 (NetSys 2025)
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

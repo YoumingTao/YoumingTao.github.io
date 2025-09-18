@@ -72,7 +72,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiArch@MobiCom]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiArch]</span>
     <div style="display: table-cell; text-align: left;">
       Differentially Private Matroid Bandits for Online Network Topology Optimization   
       <br><strong>Youming Tao</strong>, Shuzhen Chen, Kai Li, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  

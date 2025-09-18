@@ -46,6 +46,8 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 (\* denotes equal contribution)
 
+
+<!--
 ## Preprints
 
 <li style="display: table-row; margin-bottom: 10px;">
@@ -56,11 +58,27 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
       <br><em><a href="https://arxiv.org/abs/2505.15647v1">arXiv:2505.15647 [cs.LG]</a></em>
     </div>
   </li>
-
+-->
 
 ## Peer-Refereed Conference Papers
 
 <ul style="list-style: none; padding-left: 0;">
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeuIPS]</span>
+    <div style="display: table-cell; text-align: left;">
+      Second-Order Convergence in Private Stochastic Non-Convex Optimization <a href="https://arxiv.org/abs/2505.15647">[arxiv]</a>   
+      <br><strong>Youming Tao</strong>, Zuyuan Zhang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler, Di Wang  
+      <br><em>The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</em>
+    </div>
+  </li>
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiArch@MobiCom]</span>
+    <div style="display: table-cell; text-align: left;">
+      Differentially Private Matroid Bandits for Online Network Topology Optimization   
+      <br><strong>Youming Tao</strong>, Shuzhen Chen, Kai Li, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  
+      <br><em>The 20th ACM Workshop on Mobility in the Evolving Internet Architecture (MobiArch 2025), in conjunction with the 31st ACM International Conference on Mobile Computing and Networking (MobiCom 2025)</em>
+    </div>
+  </li>
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ECML]</span>
     <div style="display: table-cell; text-align: left;">

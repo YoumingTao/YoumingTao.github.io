@@ -220,41 +220,45 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   </li>
 </ul>
 
-<!--
+# Grants & Awards
 
-# Awards
+- <p style="text-align:left;">
+  National Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] 
+  <span style="float:right;">
+  May. 2024 - Dec. 2025
+  </span>
+  </p>
+- <p style="text-align:left;">
+  China Association for Science and Technology (CAST) Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划]
+  <span style="float:right;">
+  Jan. 2025 - Dec. 2025
+  </span>
+  </p>
+- <p style="text-align:left;">
+  EurIPS 2025 Student Travel Award
+  <span style="float:right;">
+  Oct. 2025
+  </span>
+  </p>
+- <p style="text-align:left;">
+  NeurIPS 2025 Student Travel Award
+  <span style="float:right;">
+  Oct. 2025
+  </span>
+  </p>
+- <p style="text-align:left;">
+  MobiCom 2025 Student Travel Award
+  <span style="float:right;">
+  Oct. 2025
+  </span>
+  </p>
 - <p style="text-align:left;">
   National Scholarship of China
   <span style="float:right;">
-  Nov. 2024
-  </span>
-  </p>
-- <p style="text-align:left;">
-  President's Award, Shandong University
-  <span style="float:right;">
-  Nov. 2023
-  </span>
-  </p>
-- <p style="text-align:left;">
-  National Scholarship of China
-  <span style="float:right;">
-  Oct. 2023
-  </span>
-  </p>
-- <p style="text-align:left;">
-  Outstanding Graduate, Shandong University
-  <span style="float:right;">
-  Jun. 2021
-  </span>
-  </p>
-- <p style="text-align:left;">
-  Dean's Award, Taishan (Honors) College
-  <span style="float:right;">
-  Jun. 2021
+  Oct. 2023 & Oct. 2024
   </span>
   </p>
 
--->
 
 # Professional Service
 <ul class="service">

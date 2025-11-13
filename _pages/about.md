@@ -222,43 +222,64 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 # Grants & Awards
 
-- <p style="text-align:left;">
-  National Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] 
-  <span style="float:right;">
-  May. 2024 - Dec. 2025
-  </span>
-  </p>
-- <p style="text-align:left;">
-  China Association for Science and Technology (CAST) Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划]
-  <span style="float:right;">
-  Jan. 2025 - Dec. 2025
-  </span>
-  </p>
-- <p style="text-align:left;">
-  EurIPS 2025 Student Travel Award
-  <span style="float:right;">
-  Oct. 2025
-  </span>
-  </p>
-- <p style="text-align:left;">
-  NeurIPS 2025 Student Travel Award
-  <span style="float:right;">
-  Oct. 2025
-  </span>
-  </p>
-- <p style="text-align:left;">
-  MobiCom 2025 Student Travel Award
-  <span style="float:right;">
-  Oct. 2025
-  </span>
-  </p>
-- <p style="text-align:left;">
-  National Scholarship of China
-  <span style="float:right;">
-  Oct. 2023 & Oct. 2024
-  </span>
-  </p>
+<ul style="list-style: none; padding-left: 0;">
+  <li style="display: table-row; margin-bottom: 8px;">
+    <div style="display: table-cell; text-align: left; vertical-align: top;">
+      National Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students  
+      [首批国家自然科学基金博士生项目]
+    </div>
+    <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
+      May. 2024 – Dec. 2025
+    </span>
+  </li>
 
+  <li style="display: table-row; margin-bottom: 8px;">
+    <div style="display: table-cell; text-align: left; vertical-align: top;">
+      China Association for Science and Technology (CAST)  
+      Young Talent Support Program – Doctoral Student Special Plan  
+      [首批中国科协青年人才托举工程博士生专项计划]
+    </div>
+    <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
+      Jan. 2025 – Dec. 2025
+    </span>
+  </li>
+
+  <li style="display: table-row; margin-bottom: 8px;">
+    <div style="display: table-cell; text-align: left; vertical-align: top;">
+      EurIPS 2025 Student Travel Award
+    </div>
+    <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
+      Oct. 2025
+    </span>
+  </li>
+
+  <li style="display: table-row; margin-bottom: 8px;">
+    <div style="display: table-cell; text-align: left; vertical-align: top;">
+      NeurIPS 2025 Student Travel Award
+    </div>
+    <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
+      Oct. 2025
+    </span>
+  </li>
+
+  <li style="display: table-row; margin-bottom: 8px;">
+    <div style="display: table-cell; text-align: left; vertical-align: top;">
+      MobiCom 2025 Student Travel Award
+    </div>
+    <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
+      Oct. 2025
+    </span>
+  </li>
+
+  <li style="display: table-row; margin-bottom: 8px;">
+    <div style="display: table-cell; text-align: left; vertical-align: top;">
+      National Scholarship of China
+    </div>
+    <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
+      Oct. 2023 &amp; Oct. 2024
+    </span>
+  </li>
+</ul>
 
 # Professional Service
 <ul class="service">

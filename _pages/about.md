@@ -220,6 +220,8 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   </li>
 </ul>
 
+<!--
+
 # Awards
 - <p style="text-align:left;">
   National Scholarship of China
@@ -251,6 +253,8 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   Jun. 2021
   </span>
   </p>
+
+-->
 
 # Professional Service
 <ul class="service">

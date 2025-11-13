@@ -225,7 +225,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 8px;">
     <div style="display: table-cell; text-align: left; vertical-align: top;">
-      National Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students  
+      Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students  
       [首批国家自然科学基金博士生项目]
     </div>
     <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">

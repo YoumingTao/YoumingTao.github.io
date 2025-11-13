@@ -225,8 +225,8 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 8px;">
     <div style="display: table-cell; text-align: left; vertical-align: top;">
-      Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students  
-      [首批国家自然科学基金博士生项目]
+      National Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students  
+      <br>[首批国家自然科学基金博士生项目]
     </div>
     <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
       May. 2024 – Dec. 2025
@@ -237,7 +237,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <div style="display: table-cell; text-align: left; vertical-align: top;">
       China Association for Science and Technology (CAST)  
       Young Talent Support Program – Doctoral Student Special Plan  
-      [首批中国科协青年人才托举工程博士生专项计划]
+      <br>[首批中国科协青年人才托举工程博士生专项计划]
     </div>
     <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
       Jan. 2025 – Dec. 2025

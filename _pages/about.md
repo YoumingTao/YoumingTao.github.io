@@ -154,7 +154,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TCS]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[CJE]</span>
     <div style="display: table-cell; text-align: left;">
       Nearly-Tight Bounds for Private Stochastic Convex Optimization and Sparse Learning under Heavy Tails <a href="https://www.sciencedirect.com/science/article/pii/S0304397525003548">[link]</a>  
       <br><strong>Youming Tao</strong>, Di Wang, Xiuzhen Cheng

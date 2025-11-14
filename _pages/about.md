@@ -156,6 +156,14 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TCS]</span>
     <div style="display: table-cell; text-align: left;">
+      Nearly-Tight Bounds for Private Stochastic Convex Optimization and Sparse Learning under Heavy Tails <a href="https://www.sciencedirect.com/science/article/pii/S0304397525003548">[link]</a>  
+      <br><strong>Youming Tao</strong>, Di Wang, Xiuzhen Cheng
+      <br><em>Chinese Journal of Electronics (Accepted)</em>  
+    </div>
+  </li>
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TCS]</span>
+    <div style="display: table-cell; text-align: left;">
       Robust Matroid Bandit Optimization: Near-Optimal Rates under Adversarial Contamination <a href="https://www.sciencedirect.com/science/article/pii/S0304397525003548">[link]</a>  
       <br><strong>Youming Tao</strong>, Xiuzhen Cheng, Falko Dressler, Zhipeng Cai, Dongxiao Yu  
       <br><em>Theoretical Computer Science (Volume 1051, October 2025, 115416)</em>  

@@ -66,8 +66,8 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[INFOCOM]</span>
     <div style="display: table-cell; text-align: left;">
-      Certified Unlearning in Decentralized Federated Learning    
-      Hengliang Wu*, <br><strong>Youming Tao*</strong>, Anhao Zhou, Shuzhen Chen, Falko Dressler, Dongxiao Yu  
+      Certified Unlearning in Decentralized Federated Learning  
+      <br> Hengliang Wu*, <br><strong>Youming Tao*</strong>, Anhao Zhou, Shuzhen Chen, Falko Dressler, Dongxiao Yu  
       <br><em>The 45th IEEE International Conference on Computer Communications (INFOCOM 2026)</em>
     </div>
   </li>

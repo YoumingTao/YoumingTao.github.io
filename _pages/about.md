@@ -64,6 +64,14 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[INFOCOM]</span>
+    <div style="display: table-cell; text-align: left;">
+      Certified Unlearning in Decentralized Federated Learning    
+      Hengliang Wu*, <br><strong>Youming Tao*</strong>, Anhao Zhou, Shuzhen Chen, Falko Dressler, Dongxiao Yu  
+      <br><em>The 45th IEEE International Conference on Computer Communications (INFOCOM 2026)</em>
+    </div>
+  </li>
+  <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeuIPS]</span>
     <div style="display: table-cell; text-align: left;">
       Second-Order Convergence in Private Stochastic Non-Convex Optimization <a href="https://arxiv.org/abs/2505.15647">[arxiv]</a>   

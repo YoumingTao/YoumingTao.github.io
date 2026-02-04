@@ -162,6 +162,14 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TON]</span>
+    <div style="display: table-cell; text-align: left;">
+      Online Private Adaptive Ranking with Incentive-Based Crowdsensing Data <a href="">[link]</a>  
+      <br>Shuzhen Chen, Hui Xia, Shulin Zhao, <strong>Youming Tao</strong>, Dongxiao Yu, Xiuzhen Cheng
+      <br><em>IEEE Transactions on Networking (Accepted)</em>  
+    </div>
+  </li>
+  <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[CJE]</span>
     <div style="display: table-cell; text-align: left;">
       Nearly-Tight Bounds for Private Stochastic Convex Optimization and Sparse Learning under Heavy Tails <a href="">[link]</a>  

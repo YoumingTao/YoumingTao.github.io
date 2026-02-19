@@ -66,7 +66,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[INFOCOM]</span>
     <div style="display: table-cell; text-align: left;">
-      Certified Unlearning in Decentralized Federated Learning  
+      Certified Unlearning in Decentralized Federated Learning <a href="https://arxiv.org/abs/2601.06436">[arxiv]</a>  
       <br> Hengliang Wu*, <strong>Youming Tao*</strong>, Anhao Zhou, Shuzhen Chen, Falko Dressler, Dongxiao Yu  
       <br><em>The 45th IEEE International Conference on Computer Communications (INFOCOM 2026)</em>
     </div>
@@ -74,7 +74,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeuIPS]</span>
     <div style="display: table-cell; text-align: left;">
-      Second-Order Convergence in Private Stochastic Non-Convex Optimization <a href="https://arxiv.org/abs/2505.15647">[arxiv]</a>   
+      Second-Order Convergence in Private Stochastic Non-Convex Optimization <a href="https://arxiv.org/abs/2505.15647">[arxiv]</a> <a href="https://openreview.net/forum?id=VmM8JVwVqV">[link]</a>  
       <br><strong>Youming Tao</strong>, Zuyuan Zhang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler, Di Wang  
       <br><em>The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</em>
     </div>
@@ -82,7 +82,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiArch]</span>
     <div style="display: table-cell; text-align: left;">
-      Differentially Private Matroid Bandits for Online Network Topology Optimization   
+      Differentially Private Matroid Bandits for Online Network Topology Optimization <a href="https://dl.acm.org/doi/10.1145/3737897.3767290">[link]</a>   
       <br><strong>Youming Tao</strong>, Shuzhen Chen, Kai Li, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler  
       <br><em>The 20th ACM Workshop on Mobility in the Evolving Internet Architecture (MobiArch 2025), in conjunction with the 31st ACM International Conference on Mobile Computing and Networking (MobiCom 2025)</em>
     </div>
@@ -90,7 +90,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ECML]</span>
     <div style="display: table-cell; text-align: left;">
-      Differentially Private Sparse Linear Regression with Heavy-tailed Responses <a href="https://arxiv.org/abs/2506.06861">[arxiv]</a>  
+      Differentially Private Sparse Linear Regression with Heavy-tailed Responses <a href="https://arxiv.org/abs/2506.06861">[arxiv]</a> <a href="https://link.springer.com/chapter/10.1007/978-3-032-06096-9_21">[link]</a>  
       <br>Xizhi Tian, Meng Ding, <strong>Youming Tao</strong>, Zihang Xiang, Di Wang  
       <br><em>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2025 (ECML-PKDD 2025)</em>
     </div>
@@ -164,7 +164,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TON]</span>
     <div style="display: table-cell; text-align: left;">
-      Online Private Adaptive Ranking with Incentive-Based Crowdsensing Data <a href="">[link]</a>  
+      Online Private Adaptive Ranking with Incentive-Based Crowdsensing Data <a href="https://ieeexplore.ieee.org/document/11382030">[link]</a>  
       <br>Shuzhen Chen, Hui Xia, Shulin Zhao, <strong>Youming Tao</strong>, Dongxiao Yu, Xiuzhen Cheng
       <br><em>IEEE Transactions on Networking (Accepted)</em>  
     </div>

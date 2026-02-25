@@ -310,6 +310,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li>
     <em>Conference Reviewer / Program Committee Member</em>
     <div class="rows">
+      ISIT: <a href="https://2026.ieee-isit.org/">2026</a><br>
       IJCAI: <a href="https://2026.ijcai.org/">2026</a><br>
       NeurIPS: <a href="https://neurips.cc/Conferences/2025">2025</a>, <a href="https://neurips.cc/Conferences/2024">2024</a><br>
       ICML: <a href="https://icml.cc/Conferences/2026">2026</a>, <a href="https://icml.cc/Conferences/2025">2025</a><br>

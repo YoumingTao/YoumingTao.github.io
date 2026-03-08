@@ -72,7 +72,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeuIPS]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeurIPS]</span>
     <div style="display: table-cell; text-align: left;">
       Second-Order Convergence in Private Stochastic Non-Convex Optimization <a href="https://arxiv.org/abs/2505.15647">[arxiv]</a> <a href="https://openreview.net/forum?id=VmM8JVwVqV">[link]</a>  
       <br><strong>Youming Tao</strong>, Zuyuan Zhang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler, Di Wang  

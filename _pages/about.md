@@ -44,7 +44,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 
 # Publications  
 
-(\* denotes equal contribution)
+&#10033;: equal contribution | &dagger;: corresponding author | <u>underlined names</u>: students I (co-)supervised
 
 
 <!--
@@ -67,7 +67,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[INFOCOM]</span>
     <div style="display: table-cell; text-align: left;">
       Certified Unlearning in Decentralized Federated Learning <a href="https://arxiv.org/abs/2601.06436">[arxiv]</a>  
-      <br> Hengliang Wu*, <strong>Youming Tao*</strong>, Anhao Zhou, Shuzhen Chen, Falko Dressler, Dongxiao Yu  
+      <br> <u>Hengliang Wu</u><sup>&#10033;</sup>, <strong>Youming Tao</strong><sup>&#10033;</sup>, Anhao Zhou, Shuzhen Chen, Falko Dressler, Dongxiao Yu  
       <br><em>The 45th IEEE International Conference on Computer Communications (INFOCOM 2026)</em>
     </div>
   </li>
@@ -115,7 +115,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICNC]</span>
     <div style="display: table-cell; text-align: left;">
       <strong>[Invited Paper]</strong> Correlation-Aware and Personalized Privacy-Preserving Data Collection <a href="https://ieeexplore.ieee.org/document/10556247">[link]</a>  
-      <br>Dongxiao Yu, Kaiyi Zhang, <strong>Youming Tao</strong>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
+      <br>Dongxiao Yu, <u>Kaiyi Zhang</u>, <strong>Youming Tao</strong><sup>&dagger;</sup>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
       <br><em>International Conference on Computing, Networking and Communication (ICNC 2024)</em>
     </div>
   </li>
@@ -123,7 +123,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[VLDB]</span>
     <div style="display: table-cell; text-align: left;">
       Communication Efficient and Provable Federated Unlearning <a href="https://arxiv.org/abs/2401.11018">[arxiv]</a> <a href="https://www.vldb.org/pvldb/vol17/p1119-wang.pdf">[link]</a>  
-      <br><strong>Youming Tao</strong>*, Cheng-Long Wang*, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
+      <br><strong>Youming Tao</strong><sup>&#10033;</sup>, Cheng-Long Wang<sup>&#10033;</sup>, Miao Pan, Dongxiao Yu, Xiuzhen Cheng, Di Wang  
       <br><em>The 50th International Conference on Very Large Databases (VLDB 2024)</em>
       <br>- Presented as a Hot Topics Talk at International Conference on Networked Systems 2025 (NetSys 2025)
     </div>
@@ -132,7 +132,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[NeurIPS]</span>
     <div style="display: table-cell; text-align: left;">
       On Private and Robust Bandits <a href="https://arxiv.org/pdf/2302.02526.pdf">[arxiv]</a> <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/6d13e085b79d454da5910e4ca82a3d9d-Abstract-Conference.html">[link]</a>  
-      <br>Yulian Wu*, Xingyu Zhou*, <strong>Youming Tao</strong>, Di Wang  
+      <br>Yulian Wu</strong><sup>&#10033;</sup>, Xingyu Zhou</strong><sup>&#10033;</sup>, <strong>Youming Tao</strong>, Di Wang  
       <br><em>The 37th Annual Conference on Neural Information Processing Systems (NeurIPS 2023)</em>
     </div>
   </li>
@@ -148,7 +148,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[AISTATS]</span>
     <div style="display: table-cell; text-align: left;">
       Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits <a href="https://arxiv.org/abs/2106.02575">[arxiv]</a> <a href="https://proceedings.mlr.press/v151/tao22a.html">[link]</a>  
-      <br><strong>Youming Tao</strong>*, Yulian Wu*, Peng Zhao, Di Wang  
+      <br><strong>Youming Tao</strong></strong><sup>&#10033;</sup>, Yulian Wu</strong><sup>&#10033;</sup>, Peng Zhao, Di Wang  
       <br><em>The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)</em>  
       <br><span style="color: red;">Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)</span>.  
       <br>- Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (ICML-RDMDE 2022)  

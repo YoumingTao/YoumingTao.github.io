@@ -175,7 +175,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <div style="display: table-cell; text-align: left;">
       Online Private Adaptive Ranking with Incentive-Based Crowdsensing Data <a href="https://ieeexplore.ieee.org/document/11382030">[link]</a>  
       <br>Shuzhen Chen, Hui Xia, Shulin Zhao, <strong>Youming Tao</strong>, Dongxiao Yu, Xiuzhen Cheng
-      <br><em>IEEE Transactions on Networking (Accepted)</em>  
+      <br><em>IEEE Transactions on Networking (Volume: 34)</em>  
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

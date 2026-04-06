@@ -149,7 +149,7 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[AISTATS]</span>
     <div style="display: table-cell; text-align: left;">
       Optimal Rates of (Locally) Differentially Private Heavy-tailed Multi-Armed Bandits <a href="https://arxiv.org/abs/2106.02575">[arxiv]</a> <a href="https://proceedings.mlr.press/v151/tao22a.html">[link]</a>  
-      <br><strong>Youming Tao</strong></strong><sup>&#10033;</sup>, Yulian Wu</strong><sup>&#10033;</sup>, Peng Zhao, Di Wang  
+      <br><strong>Youming Tao</strong><sup>&#10033;</sup>, Yulian Wu<sup>&#10033;</sup>, Peng Zhao, Di Wang  
       <br><em>The 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)</em>  
       <br><span style="color: red;">Selected as an Oral paper (Acceptance Rate: 44/1685=2.6%)</span>.  
       <br>- Presented at ICML 2022 Workshop on Responsible Decision Making in Dynamic Environments (ICML-RDMDE 2022)  

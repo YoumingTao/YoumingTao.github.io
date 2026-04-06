@@ -165,6 +165,14 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TON]</span>
     <div style="display: table-cell; text-align: left;">
+      Byzantine-Resilient Federated Learning under Heterogeneity and Heavy Tails <a href="">[link]</a>  
+      <br><strong>Youming Tao</strong>, Zuyuan Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler
+      <br><em>IEEE Transactions on Networking (Accepted)</em>  
+    </div>
+  </li>
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TON]</span>
+    <div style="display: table-cell; text-align: left;">
       Online Private Adaptive Ranking with Incentive-Based Crowdsensing Data <a href="https://ieeexplore.ieee.org/document/11382030">[link]</a>  
       <br>Shuzhen Chen, Hui Xia, Shulin Zhao, <strong>Youming Tao</strong>, Dongxiao Yu, Xiuzhen Cheng
       <br><em>IEEE Transactions on Networking (Accepted)</em>  

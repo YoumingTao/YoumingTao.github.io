@@ -314,7 +314,6 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <em>Conference Reviewer / (Technical) Program Committee Member</em>
     <div class="rows">
       ICDCS: <a href="https://icdcs2026.icdcs.org/sample-page/technical-committee/"> 2026</a><br>
-      ISIT: <a href="https://2026.ieee-isit.org/">2026</a><br>
       IJCAI: <a href="https://2026.ijcai.org/">2026</a><br>
       NeurIPS: <a href="https://neurips.cc/Conferences/2025">2025</a>, <a href="https://neurips.cc/Conferences/2024">2024</a><br>
       ICML: <a href="https://icml.cc/Conferences/2026">2026</a>, <a href="https://icml.cc/Conferences/2025">2025</a><br>
@@ -330,6 +329,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
   <li>
     <em>Conference external reviewer</em>
     <div class="rows">
+      ISIT: <a href="https://2026.ieee-isit.org/">2026</a><br>
       CVPR: <a href="https://cvpr.thecvf.com/Conferences/2024">2024</a><br>
       NeurIPS: <a href="https://nips.cc/Conferences/2023">2023</a><br>
       ICML: <a href="https://icml.cc/Conferences/2023">2023</a><br>
@@ -343,15 +343,16 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
   <li>
     <em>Journal Reviewer</em>
     <div class="rows">
-      <a href="https://dl.acm.org/journal/topml">ACM Transactions on Probabilistic Machine Learning (TOPML)</a><br>
-      <a href="https://www.sciencedirect.com/journal/information-processing-and-management">Information Processing &amp; Management (IP&amp;M)</a><br>
       <a href="https://sites.google.com/view/ieee-acm-ton/home">IEEE/ACM Transactions on Networking (TON)</a><br>
       <a href="https://www.comsoc.org/publications/journals/ieee-tmlcn">IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</a><br>
       <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">IEEE Transactions on Information Forensics &amp; Security (TIFS)</a><br>
       <a href="https://www.computer.org/csdl/journal/td">IEEE Transactions on Parallel and Distributed Systems (TPDS)</a><br>
       <a href="https://www.computer.org/csdl/journal/tc">IEEE Transactions on Computers (TC)</a><br>
       <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing (TMC)</a><br>
-      <a href="https://www.springer.com/journal/11704">Frontiers of Computer Science (FCS)</a>
+      <a href="https://dl.acm.org/journal/topml">ACM Transactions on Probabilistic Machine Learning (TOPML)</a><br>
+      <a href="https://www.sciencedirect.com/journal/information-processing-and-management">Elsevier Information Processing &amp; Management (IP&amp;M)</a><br>
+      <a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a><br>
+      <a href="https://www.springer.com/journal/11704">Springer Frontiers of Computer Science (FCS)</a>
     </div>
   </li>
 </ul>

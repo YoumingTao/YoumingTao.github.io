@@ -317,8 +317,9 @@ My work aims to bridge theory and practice, leveraging theoretical insights to d
 # Professional Service
 <ul class="service">
   <li>
-    <em>Conference Reviewer / Program Committee Member</em>
+    <em>Conference Reviewer / (Technical) Program Committee Member</em>
     <div class="rows">
+      ICDCS: <a href="https://icdcs2026.icdcs.org/sample-page/technical-committee/"> 2026</a><br>
       ISIT: <a href="https://2026.ieee-isit.org/">2026</a><br>
       IJCAI: <a href="https://2026.ijcai.org/">2026</a><br>
       NeurIPS: <a href="https://neurips.cc/Conferences/2025">2025</a>, <a href="https://neurips.cc/Conferences/2024">2024</a><br>

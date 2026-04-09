@@ -29,17 +29,11 @@ I obtained my bachelor's degree (with distinction) in Computer Science from the 
 
 # Research 
 
-My research lies at the intersection of artificial intelligence and information networking, with a primary focus on developing resource-efficient and trustworthy learning algorithms for edge AI. I am particularly interested in decision-making problems (bandit learning and reinforcement learning) and (stochastic) optimization.
-
-At its core, my research addresses the following challenge:
-
-How can we ensure data privacy, fault tolerance, and communication/computation efficiency while maintaining strong learning performance in edge environments where resources are constrained, communication bandwidth is limited, topology is highly dynamic, and adversaries may be present?
-
-My work aims to bridge theory and practice, leveraging theoretical insights to develop innovative, scalable, and impactful real-world solutions.
+My research focuses on distributed AI and trustworthy AI, with a particular interest in edge environments.
 
 <!-- My research was supported by the inaugural batch of the National Natural Science Foundation of China's Basic Research Program for Doctoral Students [首批国家自然科学基金博士生项目] and the inaugural batch of the China Association for Science and Technology's Young Talent Support Program – Doctoral Student Special Plan [首批中国科协青年人才托举工程博士生专项计划]. -->
 
-<span style="color: red;">Opennings:</span> I am always looking for motivated students to collaborate on research projects. If you are interested, please email me with your CV attached. A stipend is available, though it is typically reserved for students with prior collaboration experience.
+<span style="color: red;">Openings:</span> Motivated students interested in research collaboration are welcome to email me their CV. TU Berlin students interested in related topics are also welcome to contact me about bachelor’s/master’s thesis opportunities.
 
 
 # Publications  

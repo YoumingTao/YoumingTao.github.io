@@ -311,7 +311,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 # Professional Service
 <ul class="service">
   <li>
-    <em>Conference Reviewer / (Technical) Program Committee Member</em>
+    <em>(Technical) Program Committee Member</em>
     <div class="rows">
       ICDCS: <a href="https://icdcs2026.icdcs.org/sample-page/technical-committee/"> 2026</a><br>
       IJCAI: <a href="https://2026.ijcai.org/">2026</a><br>

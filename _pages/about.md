@@ -331,6 +331,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <div class="rows">
       ISIT: <a href="https://2026.ieee-isit.org/">2026</a><br>
       CVPR: <a href="https://cvpr.thecvf.com/Conferences/2024">2024</a><br>
+      COLT: <a href="https://learningtheory.org/colt2024/">2024</a><br>
       NeurIPS: <a href="https://nips.cc/Conferences/2023">2023</a><br>
       ICML: <a href="https://icml.cc/Conferences/2023">2023</a><br>
       ICLR: <a href="https://iclr.cc/Conferences/2023">2023</a><br>

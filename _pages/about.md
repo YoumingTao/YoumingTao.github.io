@@ -58,6 +58,27 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 ## Peer-Refereed Conference Papers
 
 <ul style="list-style: none; padding-left: 0;">
+
+<!--
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
+    <div style="display: table-cell; text-align: left;">
+      Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization <a href="https://arxiv.org/abs/2602.01339">[arxiv]</a>  
+      <br> <u>Difei Xu</u><sup>&#10033;</sup>, <strong>Youming Tao</strong><sup>&#10033;</sup>, Meng Ding, Chenglin Fan, Di Wang  
+      <br><em>The 43rd International Conference on Machine Learning (ICML 2026)</em>
+    </div>
+  </li>
+
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
+    <div style="display: table-cell; text-align: left;">
+      Trajectory-Aware Certified Decentralized Unlearning via SGD Stability <a href="">[arxiv]</a>  
+      <br> <u>Hengliang Wu</u>, <u>Jiale Yang</u>, <strong>Youming Tao</strong><sup>&dagger;</sup>, Shuzhen Chen, Di Wang, Dongxiao Yu    
+      <br><em>The 43rd International Conference on Machine Learning (ICML 2026)</em>
+    </div>
+  </li>
+-->
+
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[INFOCOM]</span>
     <div style="display: table-cell; text-align: left;">

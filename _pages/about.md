@@ -59,7 +59,6 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 
 <ul style="list-style: none; padding-left: 0;">
 
-<!--
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
     <div style="display: table-cell; text-align: left;">
@@ -77,7 +76,6 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
       <br><em>The 43rd International Conference on Machine Learning (ICML 2026)</em>
     </div>
   </li>
--->
 
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[INFOCOM]</span>

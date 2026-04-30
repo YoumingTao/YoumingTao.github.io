@@ -39,7 +39,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 # Publications  
 
 <p>
-&#10033;: equal contribution | &dagger;: corresponding author | <u>underlined names</u>: students I (co-)supervised
+&#10033;: equal contribution | <u>underlined names</u>: students I (co-)supervised
 </p>
 
 <!--
@@ -73,7 +73,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
     <div style="display: table-cell; text-align: left;">
       Trajectory-Aware Certified Decentralized Unlearning via SGD Stability <a href="">[arxiv]</a>  
-      <br> <u>Hengliang Wu</u>, <u>Jiale Yang</u>, <strong>Youming Tao</strong><sup>&dagger;</sup>, Shuzhen Chen, Di Wang, Dongxiao Yu    
+      <br> <u>Hengliang Wu</u>, <u>Jiale Yang</u>, Shuzhen Chen, Di Wang, Dongxiao Yu, <strong>Youming Tao</strong>    
       <br><em>The 43rd International Conference on Machine Learning (ICML 2026)</em>
     </div>
   </li>
@@ -131,7 +131,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICNC]</span>
     <div style="display: table-cell; text-align: left;">
       <strong>[Invited Paper]</strong> Correlation-Aware and Personalized Privacy-Preserving Data Collection <a href="https://ieeexplore.ieee.org/document/10556247">[link]</a>  
-      <br>Dongxiao Yu, <u>Kaiyi Zhang</u>, <strong>Youming Tao</strong><sup>&dagger;</sup>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
+      <br>Dongxiao Yu, <u>Kaiyi Zhang</u>, <strong>Youming Tao</strong>, Wenlu Xu, Yifei Zou, Xiuzhen Cheng  
       <br><em>International Conference on Computing, Networking and Communication (ICNC 2024)</em>
     </div>
   </li>

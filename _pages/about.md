@@ -72,7 +72,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
     <div style="display: table-cell; text-align: left;">
       Trajectory-Aware Certified Decentralized Unlearning via SGD Stability <a href="">[arxiv]</a>  
-      <br> <u>Hengliang Wu</u>, <u>Jiale Yang</u>, Shuzhen Chen, Di Wang, Dongxiao Yu, <strong>Youming Tao</strong>    
+      <br> <u>Hengliang Wu</u>, Jiale Yang, Shuzhen Chen, Di Wang, Dongxiao Yu, <strong>Youming Tao</strong>    
       <br><em>The 43rd International Conference on Machine Learning (ICML 2026)</em>
     </div>
   </li>

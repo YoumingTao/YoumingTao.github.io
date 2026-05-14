@@ -346,6 +346,13 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
   </li>
 
   <li>
+    <em>Conference Session Chair</em>
+    <div class="rows">
+      INFOCOM <a href="https://infocom2026.ieee-infocom.org/main-technical-program/">2026</a><br>
+    </div>
+  </li>
+
+  <li>
     <em>Conference external reviewer</em>
     <div class="rows">
       ISIT: <a href="https://2026.ieee-isit.org/">2026</a><br>
@@ -369,10 +376,12 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
       <a href="https://www.computer.org/csdl/journal/td">IEEE Transactions on Parallel and Distributed Systems (TPDS)</a><br>
       <a href="https://www.computer.org/csdl/journal/tc">IEEE Transactions on Computers (TC)</a><br>
       <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing (TMC)</a><br>
+      <a href="https://jmlr.org/tmlr/">Transactions on Machine Learning Research (TMLR)</a><br>
       <a href="https://dl.acm.org/journal/topml">ACM Transactions on Probabilistic Machine Learning (TOPML)</a><br>
       <a href="https://www.sciencedirect.com/journal/information-processing-and-management">Elsevier Information Processing &amp; Management (IP&amp;M)</a><br>
       <a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a><br>
       <a href="https://www.springer.com/journal/11704">Springer Frontiers of Computer Science (FCS)</a>
+
     </div>
   </li>
 </ul>

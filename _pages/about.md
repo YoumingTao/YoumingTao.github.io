@@ -62,7 +62,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
     <div style="display: table-cell; text-align: left;">
-      Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization <a href="https://arxiv.org/abs/2602.01339">[arxiv]</a>  
+      Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization <a href="https://arxiv.org/abs/2602.01339">[arxiv]</a> <a href="https://openreview.net/forum?id=st1MolZlTP">[link]</a>  
       <br> <u>Difei Xu</u><sup>&#10033;</sup>, <strong>Youming Tao</strong><sup>&#10033;</sup>, Meng Ding, Chenglin Fan, Di Wang  
       <br><em>The 43rd International Conference on Machine Learning (ICML 2026)</em>
     </div>
@@ -71,7 +71,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
     <div style="display: table-cell; text-align: left;">
-      Trajectory-Aware Certified Decentralized Unlearning via SGD Stability <a href="">[arxiv]</a>  
+      Trajectory-Aware Certified Decentralized Unlearning via SGD Stability <a href="https://openreview.net/forum?id=45Lk9G28L5">[link]</a>  
       <br> <u>Hengliang Wu</u>, Jiale Yang, Shuzhen Chen, Di Wang, Dongxiao Yu, <strong>Youming Tao</strong>    
       <br><em>The 43rd International Conference on Machine Learning (ICML 2026)</em>
     </div>

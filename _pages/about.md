@@ -341,7 +341,8 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
       AAAI: <a href="https://aaai.org/conference/aaai/aaai-26/">2026</a>, <a href="https://aaai.org/conference/aaai/aaai-25/">2025</a>, <a href="https://aaai.org/aaai-conference/">2024</a>, <a href="https://aaai.org/Conferences/AAAI-23/">2023</a><br>
       ECML-PKDD: <a href="https://2022.ecmlpkdd.org/">2022</a><br>
       ICASSP: <a href="https://2025.ieeeicassp.org/">2025</a>, <a href="https://2024.ieeeicassp.org/">2024</a><br>
-      DLS @ IEEE MASS: <a href="https://bds-sdu.github.io/DLS-2025/#committees">2025</a><br>
+      DLS @ IEEE MASS: <a href="https://bds-sdu.github.io/DLS-2026/#committees">2026</a><br>, <a href="https://bds-sdu.github.io/DLS-2025/#committees">2025</a><br>
+      DASHSys @ VLDB: <a href="https://dashsys-workshop-vldb.github.io/index.html#home">2026</a><br>
     </div>
   </li>
 
@@ -370,17 +371,17 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
   <li>
     <em>Journal Reviewer</em>
     <div class="rows">
-      <a href="https://sites.google.com/view/ieee-acm-ton/home">IEEE/ACM Transactions on Networking (TON)</a><br>
-      <a href="https://www.comsoc.org/publications/journals/ieee-tmlcn">IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</a><br>
-      <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">IEEE Transactions on Information Forensics &amp; Security (TIFS)</a><br>
-      <a href="https://www.computer.org/csdl/journal/td">IEEE Transactions on Parallel and Distributed Systems (TPDS)</a><br>
-      <a href="https://www.computer.org/csdl/journal/tc">IEEE Transactions on Computers (TC)</a><br>
-      <a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing (TMC)</a><br>
-      <a href="https://jmlr.org/tmlr/">Transactions on Machine Learning Research (TMLR)</a><br>
-      <a href="https://dl.acm.org/journal/topml">ACM Transactions on Probabilistic Machine Learning (TOPML)</a><br>
-      <a href="https://www.sciencedirect.com/journal/information-processing-and-management">Elsevier Information Processing &amp; Management (IP&amp;M)</a><br>
-      <a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a><br>
-      <a href="https://www.springer.com/journal/11704">Springer Frontiers of Computer Science (FCS)</a>
+      2024- :<a href="https://sites.google.com/view/ieee-acm-ton/home">IEEE/ACM Transactions on Networking (TON)</a><br>
+      2024- :<a href="https://www.comsoc.org/publications/journals/ieee-tmlcn">IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)</a><br>
+      2024- :<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">IEEE Transactions on Information Forensics &amp; Security (TIFS)</a><br>
+      2024- :<a href="https://www.computer.org/csdl/journal/td">IEEE Transactions on Parallel and Distributed Systems (TPDS)</a><br>
+      2024- :<a href="https://www.computer.org/csdl/journal/tc">IEEE Transactions on Computers (TC)</a><br>
+      2023- :<a href="https://www.computer.org/csdl/journal/tm">IEEE Transactions on Mobile Computing (TMC)</a><br>
+      2026- :<a href="https://jmlr.org/tmlr/">Transactions on Machine Learning Research (TMLR)</a><br>
+      2025- :<a href="https://dl.acm.org/journal/topml">ACM Transactions on Probabilistic Machine Learning (TOPML)</a><br>
+      2024- :<a href="https://www.sciencedirect.com/journal/information-processing-and-management">Elsevier Information Processing &amp; Management (IP&amp;M)</a><br>
+      2026- :<a href="https://www.sciencedirect.com/journal/neurocomputing">Elsevier Neurocomputing</a><br>
+      2023- :<a href="https://www.springer.com/journal/11704">Springer Frontiers of Computer Science (FCS)</a>
 
     </div>
   </li>

@@ -63,7 +63,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiCom]</span>
     <div style="display: table-cell; text-align: left;">
       CRISP: Co-designing Pruning and Scheduling for Efficient MoE Inference on Edge Servers <a href="">[link]</a>  
-      <br> <u>Congwei Zhang</u><sup>&#10033;</sup>, <strong>Youming Tao</strong><sup>&#10033;</sup>, Yifei Zou, Yu Yang, Ruirui Zhang, Xiaoyu Zhang, Falko Dressler, Xiuzhen Cheng, Dongxiao Yu  
+      <br> Congwei Zhang<sup>&#10033;</sup>, <strong>Youming Tao</strong><sup>&#10033;</sup>, Yifei Zou, Yu Yang, Ruirui Zhang, Xiaoyu Zhang, Falko Dressler, Xiuzhen Cheng, Dongxiao Yu  
       <br><em>The 32nd Annual International Conference on Mobile Computing and Networking (MobiCom 2026)</em>
     </div>
   </li>
@@ -73,7 +73,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[WASA]</span>
     <div style="display: table-cell; text-align: left;">
       Distributed PAC Learning from Quantum Data with Efficient Communication <a href="">[Link]</a>  
-      <br> <strong>Youming Tao</strong>, Yaowu Yang, Shuzhen Chen, Huiqun Li, Congwei Zhang, Falko Dressler  
+      <br> <strong>Youming Tao</strong>, <u>Yaowu Yang</u>, Shuzhen Chen, Huiqun Li, Congwei Zhang, Falko Dressler  
       <br><em>The 20th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2026)</em>
       <br><span style="color: red;">Best Paper Award</span>
     </div>

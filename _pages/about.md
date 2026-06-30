@@ -295,7 +295,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
       Best Paper Award, The 20th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2026)  
     </div>
     <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
-      Jun. 2025
+      Jun. 2026
     </span>
   </li>
 

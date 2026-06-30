@@ -60,6 +60,27 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 <ul style="list-style: none; padding-left: 0;">
 
   <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[MobiCom]</span>
+    <div style="display: table-cell; text-align: left;">
+      CRISP: Co-designing Pruning and Scheduling for Efficient MoE Inference on Edge Servers <a href="">[link]</a>  
+      <br> <u>Congwei Zhang</u><sup>&#10033;</sup>, <strong>Youming Tao</strong><sup>&#10033;</sup>, Yifei Zou, Yu Yang, Ruirui Zhang, Xiaoyu Zhang, Falko Dressler, Xiuzhen Cheng, Dongxiao Yu  
+      <br><em>The 32nd Annual International Conference on Mobile Computing and Networking (MobiCom 2026)</em>
+    </div>
+  </li>
+
+  
+  <li style="display: table-row; margin-bottom: 10px;">
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[WASA]</span>
+    <div style="display: table-cell; text-align: left;">
+      Distributed PAC Learning from Quantum Data with Efficient Communication <a href="">[Link]</a>  
+      <br> <strong>Youming Tao</strong>, Yaowu Yang, Shuzhen Chen, Huiqun Li, Congwei Zhang, Falko Dressler  
+      <br><em>The 20th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2026)</em>
+      <br><span style="color: red;">Best Paper Award</span>
+    </div>
+  </li>
+
+  
+  <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[ICML]</span>
     <div style="display: table-cell; text-align: left;">
       Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization <a href="https://arxiv.org/abs/2602.01339">[arxiv]</a> <a href="https://openreview.net/forum?id=st1MolZlTP">[link]</a>  
@@ -269,6 +290,15 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 # Grants & Awards
 
 <ul style="list-style: none; padding-left: 0;">
+  <li style="display: table-row; margin-bottom: 8px;">
+    <div style="display: table-cell; text-align: left; vertical-align: top;">
+      Best Paper Award, The 20th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2026)  
+    </div>
+    <span style="display: table-cell; width: 160px; text-align: right; vertical-align: top;">
+      Jun. 2025
+    </span>
+  </li>
+
   <li style="display: table-row; margin-bottom: 8px;">
     <div style="display: table-cell; text-align: left; vertical-align: top;">
       National Natural Science Foundation of China (NSFC) Basic Research Program for Doctoral Students  

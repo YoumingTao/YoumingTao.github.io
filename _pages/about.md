@@ -223,7 +223,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
   <li style="display: table-row; margin-bottom: 10px;">
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[CJE]</span>
     <div style="display: table-cell; text-align: left;">
-      Nearly-Tight Bounds for Private Stochastic Convex Optimization and Sparse Learning under Heavy Tails <a href="">[link]</a>  
+      Nearly-Tight Bounds for Private Stochastic Convex Optimization and Sparse Learning under Heavy Tails <a href="https://cje.ejournal.org.cn/article/doi/10.23919/cje.2025.00.225">[link]</a>  
       <br><strong>Youming Tao</strong>, Di Wang, Xiuzhen Cheng
       <br><em>Chinese Journal of Electronics (vol. 35, no. 4)</em>  
     </div>

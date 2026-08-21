@@ -60,11 +60,11 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 <ul style="list-style: none; padding-left: 0;">
 
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[EMNLP Findings]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[EMNLPs]</span>
     <div style="display: table-cell; text-align: left;">
       FedSubMuon: Communication-Efficient Federated LLM Fine-Tuning via Structured Subspace Muon <a href="">[link]</a>  
       <br> Shaolong Chen, <strong>Youming Tao</strong>, Shuzhen Chen, Falko Dressler, Qingqing Ye, Di Wang  
-      <br><em>Findings of The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)</em>
+      <br><em>The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)</em>
     </div>
   </li>
 

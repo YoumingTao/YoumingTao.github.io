@@ -60,7 +60,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 <ul style="list-style: none; padding-left: 0;">
 
   <li style="display: table-row; margin-bottom: 10px;">
-    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[EMNLPs]</span>
+    <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[EMNLP]</span>
     <div style="display: table-cell; text-align: left;">
       FedSubMuon: Communication-Efficient Federated LLM Fine-Tuning via Structured Subspace Muon <a href="">[link]</a>  
       <br> Shaolong Chen, <strong>Youming Tao</strong>, Shuzhen Chen, Falko Dressler, Qingqing Ye, Di Wang  
@@ -209,7 +209,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <div style="display: table-cell; text-align: left;">
       Byzantine-Resilient Federated Learning under Heterogeneity and Heavy Tails <a href="https://ieeexplore.ieee.org/document/11494133">[link]</a>  
       <br><strong>Youming Tao</strong>, Zuyuan Zhang, Di Wang, Dongxiao Yu, Xiuzhen Cheng, Falko Dressler
-      <br><em>IEEE Transactions on Networking (Accepted)</em>  
+      <br><em>IEEE Transactions on Networking (Volume: 34)</em>  
     </div>
   </li>
   <li style="display: table-row; margin-bottom: 10px;">

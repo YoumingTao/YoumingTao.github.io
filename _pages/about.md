@@ -381,7 +381,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
       IJCAI: <a href="https://2026.ijcai.org/">2026</a><br>
       NeurIPS: <a href="https://neurips.cc/Conferences/2025">2025</a>, <a href="https://neurips.cc/Conferences/2024">2024</a><br>
       ICML: <a href="https://icml.cc/Conferences/2026">2026</a>, <a href="https://icml.cc/Conferences/2025">2025</a><br>
-      ICLR: <a href="https://iclr.cc/Conferences/2025">2025</a><br>
+      ICLR: <a href="https://iclr.cc/Conferences/2026">2026</a>, <a href="https://iclr.cc/Conferences/2025">2025</a><br> 
       AISTATS: <a href="https://aistats.org/aistats2026/">2026</a>, <a href="https://aistats.org/aistats2025/index.html">2025</a>, <a href="https://aistats.org/aistats2024/">2024</a><br>
       AAAI: <a href="https://aaai.org/conference/aaai/aaai-27/">2027</a>, <a href="https://aaai.org/conference/aaai/aaai-26/">2026</a>, <a href="https://aaai.org/conference/aaai/aaai-25/">2025</a>, <a href="https://aaai.org/aaai-conference/">2024</a>, <a href="https://aaai.org/Conferences/AAAI-23/">2023</a><br>
       ECML-PKDD: <a href="https://2022.ecmlpkdd.org/">2022</a><br>

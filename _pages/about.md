@@ -368,6 +368,13 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
 # Professional Service
 <ul class="service">
   <li>
+    <em>Area Chair</em>
+    <div class="rows">
+      ICLR: <a href="https://iclr.cc/Conferences/2027">2027</a><br>
+    </div>
+  </li>
+
+  <li>
     <em>(Technical) Program Committee Member</em>
     <div class="rows">
       ICDCS: <a href="https://icdcs2026.icdcs.org/sample-page/technical-committee/"> 2026</a><br>
@@ -380,7 +387,6 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
       ECML-PKDD: <a href="https://2022.ecmlpkdd.org/">2022</a><br>
       ICASSP: <a href="https://2025.ieeeicassp.org/">2025</a>, <a href="https://2024.ieeeicassp.org/">2024</a><br>
       DLS @ IEEE MASS: <a href="https://bds-sdu.github.io/DLS-2026/#committees">2026</a>, <a href="https://bds-sdu.github.io/DLS-2025/#committees">2025</a><br>
-      DASHSys @ VLDB: <a href="https://dashsys-workshop-vldb.github.io/index.html#home">2026</a><br>
     </div>
   </li>
 

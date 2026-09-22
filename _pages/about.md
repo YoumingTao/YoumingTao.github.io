@@ -208,7 +208,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TON]</span>
     <div style="display: table-cell; text-align: left;">
       One-Shot Federated Model Editing for Device Dynamics at the Edge <a href="">[link]</a>  
-      <br><strong>Youming Tao</strong>, Weijun Yin, Huanyi Xie, Yanqing Yao, Dongxiao Yu, Xiuzhen Cheng, Di Wang, Falko Dressler
+      <br><strong>Youming Tao</strong><sup>&#10033;</sup>, Weijun Yin<sup>&#10033;</sup>, Huanyi Xie, Yanqing Yao, Dongxiao Yu, Xiuzhen Cheng, Di Wang, Falko Dressler
       <br><em>IEEE Transactions on Networking (Accepted)</em>  
     </div>
   </li>

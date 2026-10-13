@@ -63,7 +63,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[EMNLP]</span>
     <div style="display: table-cell; text-align: left;">
       FedSubMuon: Communication-Efficient Federated LLM Fine-Tuning via Structured Subspace Muon <a href="">[link]</a>  
-      <br> Shaolong Chen, <strong>Youming Tao</strong>, Shuzhen Chen, Falko Dressler, Qingqing Ye, Di Wang  
+      <br> <u>Shaolong Chen</u>, <strong>Youming Tao</strong>, Shuzhen Chen, Falko Dressler, Qingqing Ye, Di Wang  
       <br><em>The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)</em>
     </div>
   </li>
@@ -208,7 +208,7 @@ My research focuses on distributed AI and trustworthy AI, with a particular inte
     <span style="display: table-cell; color: blue; width: 90px; vertical-align: top; text-align: left;">[TON]</span>
     <div style="display: table-cell; text-align: left;">
       One-Shot Federated Model Editing for Device Dynamics at the Edge <a href="">[link]</a>  
-      <br><strong>Youming Tao</strong><sup>&#10033;</sup>, Weijun Yin<sup>&#10033;</sup>, Huanyi Xie, Yanqing Yao, Dongxiao Yu, Xiuzhen Cheng, Di Wang, Falko Dressler
+      <br><strong>Youming Tao</strong><sup>&#10033;</sup>, <u>Weijun Yin</u><sup>&#10033;</sup>, Huanyi Xie, Yanqing Yao, Dongxiao Yu, Xiuzhen Cheng, Di Wang, Falko Dressler
       <br><em>IEEE Transactions on Networking (Accepted)</em>  
     </div>
   </li>

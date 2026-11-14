@@ -38,6 +38,7 @@
   }
   refreshToc();
   let compact = null;
+  const tocPreferences = new Map();
   let layoutFrame = 0;
   let scrollFrame = 0;
   const pageNames = ['index.html', 'publications.html', 'grants-awards.html', 'service.html'];
@@ -223,32 +224,51 @@
 
   function layoutToc() {
     if (!sidebar || !profile || !toc || !summary || !tocNav) return;
-    const oldOpen = toc.open;
-    // A closed details element has no measurable list. Measure before paint,
-    // then restore the reader's choice while the responsive mode is unchanged.
+    // Measure the full list once, without the previous height limit or menu
+    // border. Programmatic measuring never changes the reader's preference.
     toc.open = true;
-    const shellHeight = Math.max(summary.offsetHeight,
-      toc.offsetHeight - tocNav.offsetHeight);
-    const naturalHeight = shellHeight + tocNav.scrollHeight;
+    sidebar.classList.remove('toc-compact');
+    // An uncapped measuring pass must not introduce a temporary scrollbar
+    // that changes the profile width and wraps its text onto extra lines.
+    sidebar.style.overflowY = 'hidden';
+    tocNav.style.maxHeight = 'none';
+    const navHeight = tocNav.getBoundingClientRect().height;
+    const naturalHeight = Math.max(navHeight, tocNav.scrollHeight);
+    const shellHeight = Math.max(summary.getBoundingClientRect().height,
+      toc.getBoundingClientRect().height - navHeight);
     const computedSidebar = getComputedStyle(sidebar);
     const stickyTop = parseFloat(computedSidebar.top) ||
       ((header?.offsetHeight || 0) + 24 * designScale);
-    const gap = parseFloat(computedSidebar.rowGap) ||
-      parseFloat(getComputedStyle(toc).marginTop) || 24 * designScale;
-    const available = Math.max(100 * designScale, window.innerHeight - stickyTop - 20 * designScale);
+    const gap = parseFloat(getComputedStyle(toc).marginTop) || 0;
+    const available = Math.max(0, window.innerHeight - stickyTop - 12 * designScale);
+    const profileHeight = profile.getBoundingClientRect().height;
+    const rowHeights = tocLinks.map(link => link.getBoundingClientRect().height).filter(height => height > 0);
+    const rowHeight = rowHeights.length ? Math.min(...rowHeights) : summary.getBoundingClientRect().height;
+    const minimumVisible = Math.min(naturalHeight, rowHeight * 2);
+    const spaceForList = available - profileHeight - gap - shellHeight;
+    // A long directory can remain expanded and scroll inside the space that
+    // is available. It need not fit every year on screen to be useful.
     const nextCompact = mobile.matches || shortViewport.matches ||
-      profile.offsetHeight + gap + naturalHeight > available;
-    const remaining = Math.max(100 * designScale, available - profile.offsetHeight - gap - shellHeight);
-    toc.style.setProperty('--toc-max-height', remaining + 'px');
+      spaceForList + 1 < minimumVisible;
     sidebar.classList.toggle('toc-compact', nextCompact);
-    toc.open = compact === nextCompact ? oldOpen : !nextCompact;
-    compact = nextCompact;
-    // On unusually short desktop windows, the profile itself must remain
-    // reachable along with the menu rather than clipping below the viewport.
+    const finalShellHeight = Math.max(summary.getBoundingClientRect().height,
+      toc.getBoundingClientRect().height - tocNav.getBoundingClientRect().height);
+    const remaining = Math.max(0, available - profileHeight - gap - finalShellHeight);
     const sidebarMustScroll = !mobile.matches && !shortViewport.matches &&
-      profile.offsetHeight + gap + shellHeight > available;
-    sidebar.style.maxHeight = sidebarMustScroll ? available + 'px' : '';
+      profileHeight + gap + finalShellHeight + minimumVisible > available;
+    const limit = sidebarMustScroll ? minimumVisible : remaining;
+    toc.style.setProperty('--toc-max-height', Math.max(0, Math.floor(limit)) + 'px');
+    tocNav.style.removeProperty('max-height');
+    toc.open = tocPreferences.has(renderedPage) ? tocPreferences.get(renderedPage) : !nextCompact;
+    compact = nextCompact;
+    // Match the outer column's limit to the same geometry used for the list.
+    // If the profile alone is too tall, scrolling still reaches the controls.
+    sidebar.style.maxHeight = !mobile.matches && !shortViewport.matches ? available + 'px' : '';
     sidebar.style.overflowY = sidebarMustScroll ? 'auto' : '';
+    if (sidebarMustScroll && toc.open) {
+      const clipped = toc.getBoundingClientRect().bottom - sidebar.getBoundingClientRect().bottom;
+      if (clipped > 0) sidebar.scrollTop += clipped;
+    } else if (!sidebarMustScroll) sidebar.scrollTop = 0;
   }
 
   function updateToc() {
@@ -304,8 +324,16 @@
   function closeToc(returnFocus = false) {
     if (!compact || !toc?.open) return;
     toc.open = false;
+    tocPreferences.set(renderedPage, false);
     if (returnFocus) summary?.focus();
   }
+
+  summary?.addEventListener('click', event => {
+    if (!event.defaultPrevented) {
+      tocPreferences.set(renderedPage, !toc.open);
+      requestLayout();
+    }
+  });
 
   backTop?.addEventListener('click', () => {
     ++restoration;

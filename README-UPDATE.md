@@ -31,7 +31,7 @@
 <li class="publication" data-year="2027">
   <div class="paper-body">
     <div class="paper-title">
-      <span class="venue">[ICML'27]</span> 论文标题
+      <span class="venue">ICML'27</span> 论文标题
       <a href="https://论文链接" target="_blank" rel="noopener noreferrer">[link]</a>
     </div>
     <strong>Youming Tao</strong>, 其他作者<br>
@@ -47,6 +47,8 @@
 程序根据每篇论文的 `data-year`，在相邻年份变化的位置自动画年份线，并生成目录中的年份。若同一年份分成不连续的几段，会在每一段前画线，目录仅保留该年份第一次出现的位置，以保留你安排的论文顺序。
 
 作者加粗使用 `<strong>Youming Tao</strong>`；学生下划线使用 `<u>作者名</u>`；共一作使用 `<sup>✱</sup>`。链接继续使用普通的 `<a href="...">[link]</a>`，保留和原来相同的 HTML 写法。
+
+会议和期刊缩写保留浅灰色标签背景和细边框，标签内文字使用原来的蓝色并加粗，例如 `<span class="venue">AIoT'26</span>`。受邀论文在标签外用方括号标注：`<span class="paper-type">[Invited Paper]</span>`，然后接论文标题。
 
 获奖标注使用 `<br><strong class="award-note">Best Paper Award</strong>`，会自动显示为加粗的波尔多红。
 

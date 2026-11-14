@@ -48,7 +48,7 @@
 
 作者加粗使用 `<strong>Youming Tao</strong>`；学生下划线使用 `<u>作者名</u>`；共一作使用 `<sup>✱</sup>`。链接继续使用普通的 `<a href="...">[link]</a>`，保留和原来相同的 HTML 写法。
 
-会议和期刊缩写保留浅灰色标签背景和细边框，标签内文字使用原来的蓝色并加粗，例如 `<span class="venue">AIoT'26</span>`。受邀论文在标签外用方括号标注：`<span class="paper-type">[Invited Paper]</span>`，然后接论文标题。
+会议和期刊缩写保留浅灰色标签背景和细边框，标签内文字使用克莱因蓝（#002FA7）并加粗，例如 `<span class="venue">AIoT'26</span>`。受邀论文在标签外用方括号标注：`<span class="paper-type">[Invited Paper]</span>`，然后接论文标题。
 
 获奖标注使用 `<br><strong class="award-note">Best Paper Award</strong>`，会自动显示为加粗的波尔多红。
 

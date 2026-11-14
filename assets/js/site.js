@@ -7,8 +7,9 @@
   // Ordinary page URLs remain usable directly and in new tabs. Normal primary
   // clicks reuse this document so browser zoom survives local-file navigation.
   document.documentElement.classList.add('js');
-  const mobile = window.matchMedia('(max-width: 700px)');
-  const shortViewport = window.matchMedia('(max-height: 540px)');
+  const designScale = (parseFloat(getComputedStyle(document.documentElement).fontSize) || 20) / 16;
+  const mobile = window.matchMedia('(max-width: 875px)');
+  const shortViewport = window.matchMedia('(max-height: 675px)');
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   const header = document.querySelector('.site-header');
   const nav = document.querySelector('.navigation');
@@ -207,7 +208,7 @@
       more.hidden = false;
     } else if (visible.scrollWidth > nav.clientWidth) {
       more.hidden = false;
-      const gap = parseFloat(getComputedStyle(nav).columnGap) || 8;
+      const gap = parseFloat(getComputedStyle(nav).columnGap) || 8 * designScale;
       while (visible.lastElementChild &&
         visible.scrollWidth + more.offsetWidth + gap > nav.clientWidth) {
         overflow.prepend(visible.lastElementChild);
@@ -231,13 +232,13 @@
     const naturalHeight = shellHeight + tocNav.scrollHeight;
     const computedSidebar = getComputedStyle(sidebar);
     const stickyTop = parseFloat(computedSidebar.top) ||
-      ((header?.offsetHeight || 0) + 24);
+      ((header?.offsetHeight || 0) + 24 * designScale);
     const gap = parseFloat(computedSidebar.rowGap) ||
-      parseFloat(getComputedStyle(toc).marginTop) || 24;
-    const available = Math.max(100, window.innerHeight - stickyTop - 20);
+      parseFloat(getComputedStyle(toc).marginTop) || 24 * designScale;
+    const available = Math.max(100 * designScale, window.innerHeight - stickyTop - 20 * designScale);
     const nextCompact = mobile.matches || shortViewport.matches ||
       profile.offsetHeight + gap + naturalHeight > available;
-    const remaining = Math.max(100, available - profile.offsetHeight - gap - shellHeight);
+    const remaining = Math.max(100 * designScale, available - profile.offsetHeight - gap - shellHeight);
     toc.style.setProperty('--toc-max-height', remaining + 'px');
     sidebar.classList.toggle('toc-compact', nextCompact);
     toc.open = compact === nextCompact ? oldOpen : !nextCompact;
@@ -253,7 +254,7 @@
   function updateToc() {
     if (!tocLinks.length) return;
     const firstTarget = tocTargets.find(Boolean);
-    const threshold = (parseFloat(firstTarget && getComputedStyle(firstTarget).scrollMarginTop) || 18) + 8;
+    const threshold = (parseFloat(firstTarget && getComputedStyle(firstTarget).scrollMarginTop) || 18 * designScale) + 8 * designScale;
     let active = tocTargets.findIndex(Boolean);
     tocTargets.forEach((target, index) => {
       if (target && target.getBoundingClientRect().top <= threshold) active = index;
@@ -283,7 +284,7 @@
 
   function updateBackTop() {
     if (!backTop) return;
-    const visible = window.scrollY > 200;
+    const visible = window.scrollY > 200 * designScale;
     if (!visible && document.activeElement === backTop) main?.focus({preventScroll: true});
     backTop.hidden = !visible;
   }
